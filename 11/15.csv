@@ -1,0 +1,38 @@
+"hep-th/9111026","John Cardy","John Cardy","Critical Percolation in Finite Geometries","10 pages","J.Phys. A25 (1992) L201-L206","10.1088/0305-4470/25/4/009",,"hep-th",,"  The methods of conformal field theory are used to compute the crossing
+probabilities between segments of the boundary of a compact two-dimensional
+region at the percolation threshold. These probabilities are shown to be
+invariant not only under changes of scale, but also under mappings of the
+region which are conformal in the interior and continuous on the boundary. This
+is a larger invariance than that expected for generic critical systems.
+Specific predictions are presented for the crossing probability between
+opposite sides of a rectangle, and are compared with recent numerical work. The
+agreement is excellent.
+","[{""version"":""v1"",""created"":""Thu, 14 Nov 1991 22:31:22 GMT""}]","2009-10-22"
+"hep-th/9111027",,"M.Caselle, G.Ponzano and F.Ravanini","Towards a Classification of Fusion Rule Algebras in Rational Conformal
+  Field Theories","18pp [Talk given by one of us (F.R.) at the ``Research Conference on
+  Advanced Quantum Field Theory and Critical Phenomena'', Como (Italy), June
+  17-21, 1991]","Int.J.Mod.Phys.B6:2075-2090,1992","10.1142/S021797929200102X",,"hep-th",,"  We review the main topics concerning Fusion Rule Algebras (FRA) of Rational
+Conformal Field Theories. After an exposition of their general properties, we
+examine known results on the complete classification for low number of fields
+($\leq 4$). We then turn our attention to FRA's generated polynomially by one
+(real) fundamental field, for which a classification is known. Attempting to
+generalize this result, we describe some connections between FRA's and Graph
+Theory. The possibility to get new results on the subject following this
+``graph'' approach is briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 15 Nov 1991 03:08:00 GMT""}]","2011-04-15"
+"hep-th/9111028","Kresimir Demeterfi","Jean Avan and Antal Jevicki","String field actions from W-infinity","18 pages","Mod.Phys.Lett. A7 (1992) 357-370","10.1142/S0217732392000306",,"hep-th",,"  Starting from $W_{\infty}$ as a fundamental symmetry and using the coadjoint
+orbit method, we derive an action for one dimensional strings. It is shown that
+on the simplest nontrivial orbit this gives the single scalar collective field
+theory. On higher orbits one finds generalized KdV type field theories with
+increasing number of components. Here the tachyon is coupled to higher tensor
+fields.
+","[{""version"":""v1"",""created"":""Fri, 15 Nov 1991 03:44:18 GMT""}]","2009-10-22"
+"hep-th/9111029","Ioannis Giannakis","Mark Evans and Ioannis Giannakis","Isolated States and the Classical Phase Spase of 2-d String Theory","9 pages","Phys. Lett. B278 (1992) 119-124","10.1016/0370-2693(92)90721-F",,"hep-th",,"  We investigate the classical phase space of 2-d string theory. We derive the
+linearised covariant equations for the spacetime fields by considering the most
+general deformation of the energy-momentum tensor which describes $c=1$ matter
+system coupled to 2-d gravity and by demanding that it respect conformal
+invariance. We derive the gauge invariances of the theory, and so investigate
+the classical phase space, defined as the space of all solutions to the
+equations of motion modulo gauge transformations. We thus clarify the origins
+of two classes of isolated states.
+","[{""version"":""v1"",""created"":""Thu, 14 Nov 1991 18:48:00 GMT""}]","2009-10-22"

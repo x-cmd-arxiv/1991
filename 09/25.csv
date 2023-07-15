@@ -1,0 +1,59 @@
+"hep-th/9109041",,"Andrea Cappelli, Jos\'e Ignacio Latorre and Xavier Vilasis-Cardona","Renormalization Group Patterns and C-Theorem in More Than Two Dimensions","33 pages","Nucl.Phys. B376 (1992) 510-538","10.1016/0550-3213(92)90119-V",,"hep-th",,"  We elaborate on a previous attempt to prove the irreversibility of the
+renormalization group flow above two dimensions. This involves the construction
+of a monotonically decreasing $c$-function using a spectral representation. The
+missing step of the proof is a good definition of this function at the fixed
+points. We argue that for all kinds of perturbative flows the $c$-function is
+well-defined and the $c$-theorem holds in any dimension. We provide examples in
+multicritical and multicomponent scalar theories for dimension $2<d<4$. We also
+discuss the non-perturbative flows in the yet unsettled case of the $O(N)$
+sigma-model for $2\leq d\leq 4$ and large $N$.
+","[{""version"":""v1"",""created"":""Tue, 24 Sep 1991 16:24:55 GMT""}]","2009-10-22"
+"hep-th/9109045",,"T. Banks and M. Dine","Note on Discrete Gauge Anomalies","9 pages","Phys.Rev.D45:1424-1427,1992","10.1103/PhysRevD.45.1424",,"hep-th",,"  We consider the probem of gauging discrete symmetries. All valid constraints
+on such symmetries can be understood in the low energy theory in terms of
+instantons. We note that string perturbation theory often exhibits global
+discrete symmetries, which are broken non-perturbatively.
+","[{""version"":""v1"",""created"":""Tue, 24 Sep 1991 19:44:00 GMT""},{""version"":""v2"",""created"":""Wed, 2 Oct 1991 18:45:00 GMT""}]","2011-09-29"
+"hep-th/9109046","Andrea Pasquinucci","Timothy Hollowood, Luis Miramontes, Andrea Pasquinucci and Chiara
+  Nappi","Hermitian vs. Anti-Hermitian 1-Matrix Models and Their Hierarchies","31 pages","Nucl.Phys.B373:247-280,1992","10.1016/0550-3213(92)90457-M",,"hep-th",,"  Building on a recent work of \v C. Crnkovi\'c, M. Douglas and G. Moore, a
+study of multi-critical multi-cut one-matrix models and their associated
+$sl(2,C)$ integrable hierarchies, is further pursued. The double scaling limits
+of hermitian matrix models with different scaling ans\""atze, lead, to the KdV
+hierarchy, to the modified KdV hierarchy and part of the non-linear
+Schr\""odinger hierarchy. Instead, the anti-hermitian matrix model, in the
+two-arc sector, results in the Zakharov-Shabat hierarchy, which contains both
+KdV and mKdV as reductions. For all the hierarchies, it is found that the
+Virasoro constraints act on the associated tau-functions. Whereas it is known
+that the ZS and KdV models lead to the Virasoro constraints of an $sl(2,C)$
+vacuum, we find that the mKdV model leads to the Virasoro constraints of a
+highest weight state with arbitrary conformal dimension.
+","[{""version"":""v1"",""created"":""Tue, 24 Sep 1991 22:32:24 GMT""}]","2011-07-19"
+"hep-th/9109047","Orlando Alvarez","Orlando Alvarez, I.M. Singer and Paul Windey","The supersymmetric sigma model and the geometry of the Weyl-Kac
+  character formula","40 pages","Nucl.Phys. B373 (1992) 647-687","10.1016/0550-3213(92)90270-L",,"hep-th",,"  Field theoretic and geometric ideas are used to construct a chiral
+supersymmetric field theory whose ground state is a specified irreducible
+representation of a centrally extended loop group. The character index of the
+associated supercharge (an appropriate Dirac operator on $LG/T$) is the
+Weyl-K\v{a}c character formula which we compute explicitly by the steepest
+descent approximation.
+","[{""version"":""v1"",""created"":""Wed, 25 Sep 1991 05:50:51 GMT""}]","2009-10-22"
+"hep-th/9109048",,"A. A. Tseytlin and C. Vafa","Elements of String Cosmology","34 pages","Nucl.Phys.B372:443-466,1992","10.1016/0550-3213(92)90327-8",,"hep-th",,"  Aspects of string cosmology for critical and non-critical strings are
+discussed emphasizing the necessity to account for the dilaton dynamics for a
+proper incorporation of ``large - small"" duality. This drastically modifies the
+intuition one has with Einstein's gravity. For example winding modes, even
+though contribute to energy density, oppose expansion and if not annihilated
+will stop the expansion. Moreover we find that the radiation dominated era of
+the standard cosmology emerges quite naturally in string cosmology. Our
+analysis of non-critical string cosmology provides a reinterpretation of the
+(universal cover of the) recently studied two dimensional black hole solution
+as a conformal realization of cosmological solutions found previously by
+Mueller.
+","[{""version"":""v1"",""created"":""Wed, 25 Sep 1991 15:07:05 GMT""}]","2009-09-17"
+"hep-th/9109049","Juan G.-Bellido","J. Garcia-Bellido and M. quiros","Extended Inflation from Strings","18pp","Nucl.Phys. B368 (1992) 463-478","10.1016/0550-3213(92)90537-L",,"hep-th",,"  We study the possibility of extended inflation in the effective theory of
+gravity from strings compactified to four dimensions and find that it strongly
+depends on the mechanism of supersymmetry breaking. We consider a general class
+of string--inspired models which are good candidates for successful extended
+inflation. In particular, the $\omega$--problem of ordinary extended inflation
+is automatically solved by the production of only very small bubbles until the
+end of inflation. We find that the inflaton field could belong either to the
+untwisted or to the twisted massless sectors of the string spectrum, depending
+on the supersymmetry breaking superpotential.
+","[{""version"":""v1"",""created"":""Wed, 25 Sep 1991 08:35:27 GMT""}]","2009-10-22"

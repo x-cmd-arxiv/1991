@@ -1,0 +1,29 @@
+"hep-th/9110023",,"S. Kalara, J. Lopez, and D. Nanopoulos","Gauge and Matter Condensates in Realistic String Models","11 pages (7 if reduced)","Phys.Lett. B275 (1992) 304-310","10.1016/0370-2693(92)91594-Y",,"hep-th",,"  We examine the inter-relationship of the superpotential containing hidden and
+observable matter fields and the ensuing condensates in free fermionic string
+models. These gauge and matter condensates of the strongly interacting hidden
+gauge groups play a crucial role in the determination of the physical
+parameters of the observable sector. Supplementing the above information with
+the requirement of modular invariance, we find that a generic model with only
+trilinear superpotential allows for a degenerate (and sometimes pathological)
+set of vacua. This degeneracy may be lifted by higher order terms in the
+superpotential. We also point out some other subtle points that may arise in
+calculations of this nature. We exemplify our observations by computing
+explicitly the modular invariant gaugino and matter condensates in the flipped
+SU(5) string model with hidden gauge group $SO(10)\times SU(4)$.
+","[{""version"":""v1"",""created"":""Tue, 8 Oct 1991 22:19:00 GMT""}]","2009-10-22"
+"hep-th/9110024",,"N. Burroughs, M. de Groot, T. Hollowood and L. Miramontes","Generalized W-algebras and Integrable Hierarchies","9 pages","Phys.Lett. B277 (1992) 89-94","10.1016/0370-2693(92)90962-4",,"hep-th",,"  We report on generalizations of the KdV-type integrable hierarchies of
+Drinfel'd and Sokolov. These hierarchies lead to the existence of new classical
+$W$-algebras, which arise as the second Hamiltonian structure of the
+hierarchies. In particular, we present a construction of the $W_n^{(l)}$
+algebras.
+","[{""version"":""v1"",""created"":""Tue, 8 Oct 1991 21:13:00 GMT""}]","2019-08-17"
+"math/9201233","Dale E. Alspach","Peter {\O}rno","On J. Borwein's concept of sequentially reflexive Banach spaces",,,,"Banach Archive 10/9/91","math.FA",,"  A Banach space $X$ is reflexive if the Mackey topology $\tau(X^*,X)$ on $X^*$
+agrees with the norm topology on $X^*$. Borwein [B] calls a Banach space $X$
+{\it sequentially reflexive\/} provided that every $\tau(X^*,X)$ convergent
+{\it sequence\/} in $X^*$ is norm convergent. The main result in [B] is that
+$X$ is sequentially reflexive if every separable subspace of $X$ has separable
+dual, and Borwein asks for a characterization of sequentially reflexive spaces.
+Here we answer that question by proving
+  \proclaim Theorem. {\sl A Banach space $X$ is sequentially reflexive if and
+only if $\ell_1$ is not isomorphic to a subspace of $X$.}
+","[{""version"":""v1"",""created"":""Wed, 9 Oct 1991 00:00:00 GMT""}]","2016-09-06"

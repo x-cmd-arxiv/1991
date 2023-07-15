@@ -1,0 +1,63 @@
+"hep-th/9109033","Jim Wheeler","James T. Wheeler","SU(3) x SU(2) x U(1): The residual symmetry of extended conformal
+  gravity","9pp",,,,"hep-th",,"  Within the 4-dimensional conformal algebra, the presence of two translation
+operators implies the existence of 3 distinct metrics of definite Weyl weight
+constructible from the translational gauge fields. If we demand that each of
+these metrics give rise to a gauge theory of gravity, we are led to extend the
+symmetry so that each of these three metrics has a corresponding translation
+operator. Assigning a vierbein to each of these three translations, a different
+spacetime metric arises for every choice of inner product of the vierbeins. The
+covering group of the compact part of the minimal transitive group classifying
+these inner products is $SU(4)$. An additional $SU(2)$ symmetry classifies the
+antisymmetric parts of the vierbein product. If the metric is chosen as the
+gauge field of the translations in the standard way, the SU(4) part of this
+symmetry is broken to the semidirect product of $SU(3)$ with $U(1)$.
+","[{""version"":""v1"",""created"":""Thu, 19 Sep 1991 17:44:35 GMT""}]","2008-02-06"
+"hep-th/9109034","Charles Torre","C. G. Torre","A Deformation Theory of Self-Dual Einstein Spaces","13 pages","Contemp.Math. 132 (1991) 611",,,"hep-th",,"  The self-dual Einstein equations on a compact Riemannian 4-manifold can be
+expressed as a quadratic condition on the curvature of an $SU(2)$ (spin)
+connection which is a covariant generalization of the self-dual Yang-Mills
+equations. Local properties of the moduli space of self-dual Einstein
+connections are described in the context of an elliptic complex which arises in
+the linearization of the quadratic equations on the $SU(2)$ curvature. In
+particular, it is shown that the moduli space is discrete when the cosmological
+constant is positive; when the cosmological constant is negative the moduli
+space can be a manifold the dimension of which is controlled by the
+Atiyah-Singer index theorem.
+","[{""version"":""v1"",""created"":""Fri, 20 Sep 1991 03:02:00 GMT""}]","2007-05-23"
+"hep-th/9109035","Bert Schellekens","B. Gato-Rivera and A.N. Schellekens","Classification of Simple Current Invariants","8 pages","Conf.Proc.C910725V1:292-295,1991",,,"hep-th",,"  We summarize recent work on the classification of modular invariant partition
+functions that can be obtained with simple currents in theories with a center
+(Z_p)^k with p prime. New empirical results for other centers are also
+presented. Our observation that the total number of invariants is
+monodromy-independent for (Z_p)^k appears to be true in general as well. (Talk
+presented in the parallel session on string theory of the Lepton-Photon/EPS
+Conference, Geneva, 1991.)
+","[{""version"":""v1"",""created"":""Fri, 20 Sep 1991 13:47:59 GMT""}]","2008-11-26"
+"hep-th/9109036",,"Antoine Van Proeyen","Batalin-Vilkovisky Lagrangian Quantisation","16 pages (Talk given at the ""Strings and Symmetries 1991"" conference,
+  may 20-25, Stony Brook.)",,,,"hep-th",,"  The Lagrangian Batalin-Vilkovisky (BV) formalism gives the rules for the
+quantisation of a general class of gauge theories which contain all the
+theories known up to now. It does, however, not only give a recipe to obtain a
+gauge fixed action, but also gives a nice understanding of the mechanism behind
+gauge fixing. It moreover brings together a lot of previous knowledge and
+recipes in one main concept~: the canonical transformations. We explain the
+essentials of this formalism and give related results on the superparticle.
+Also anomalies (in general functions of fields and antifields) can be obtained
+in this formalism, and it gives the relation between anomalies in different
+gauges. A Pauli-Villars scheme can be used to obtain a regularised definition
+of the expressions at the one loop level. The calculations become similar to
+those of Fujikawa with the extra freedom of using arbitrary variables. A
+discrepancy between anomalies in light-cone gauge of the Green-Schwarz
+superstring and in the semi-light-cone gauge is discussed.
+","[{""version"":""v1"",""created"":""Fri, 20 Sep 1991 15:22:47 GMT""}]","2007-05-23"
+"hep-th/9112059","Ivan le terrible","I. Kostov","Strings with Discrete Target Space","65 pages (Sept. 91)","Nucl.Phys. B376 (1992) 539-598","10.1016/0550-3213(92)90120-Z",,"hep-th",,"  We investigate the field theory of strings having as a target space an
+arbitrary discrete one-dimensional manifold. The existence of the continuum
+limit is guaranteed if the target space is a Dynkin diagram of a simply laced
+Lie algebra or its affine extension. In this case the theory can be mapped onto
+the theory of strings embedded in the infinite discrete line $\Z$ which is the
+target space of the SOS model. On the regular lattice this mapping is known as
+Coulomb gas picture. ... Once the classical background is known, the amplitudes
+involving propagation of strings can be evaluated by perturbative expansion
+around the saddle point of the functional integral. For example, the partition
+function of the noninteracting closed string (toroidal world sheet) is the
+contribution of the gaussian fluctuations of the string field. The vertices in
+the corresponding Feynman diagram technique are constructed as the loop
+amplitudes in a random matrix model with suitably chosen potential.
+","[{""version"":""v1"",""created"":""Thu, 19 Sep 1991 17:24:44 GMT""},{""version"":""v2"",""created"":""Mon, 21 Jul 2003 16:24:14 GMT""}]","2009-10-22"

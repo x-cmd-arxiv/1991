@@ -1,0 +1,9 @@
+"math/9201230",,"Denny H. Leung","Banach spaces with Property (w)",,,,"Banach Archive 7/24/91","math.FA",,"  A Banach space E is said to have Property (w) if every (bounded linear)
+operator from E into E' is weakly compact. We give some interesting examples of
+James type Banach spaces with Property (w). We also consider the passing of
+Property (w) from E to C(K,E).
+","[{""version"":""v1"",""created"":""Wed, 24 Jul 1991 14:24:48 GMT""}]","2016-09-06"
+"math/9201231","Dale E. Alspach","B. Khaoulani","A Gordon-Chevet type Inequality",,,,"Banach Archive 7/23/91","math.FA",,"  We prove a new inequality for Gaussian processes, this inequality implies the
+Gordon-Chevet inequality. Some remarks on Gaussian proofs of Dvoretzky's
+theorem are given.
+","[{""version"":""v1"",""created"":""Wed, 24 Jul 1991 00:47:07 GMT""}]","2009-09-25"

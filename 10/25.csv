@@ -1,0 +1,27 @@
+"hep-th/9110066","Peter Freund","Peter G. O. Freund and Anton V. Zabrodin","Macdonald Polynomials from Sklyanin Algebras: A Conceptual Basis for the
+  $p$-Adics-Quantum Group Connection","25 pages","Commun.Math.Phys. 147 (1992) 277-294","10.1007/BF02096588",,"hep-th math.QA",,"  We establish a previously conjectured connection between $p$-adics and
+quantum groups. We find in Sklyanin's two parameter elliptic quantum algebra
+and its generalizations, the conceptual basis for the Macdonald polynomials,
+which ``interpolate'' between the zonal spherical functions of related real and
+$p$\--adic symmetric spaces. The elliptic quantum algebras underlie the
+$Z_n$\--Baxter models. We show that in the $n \air \infty$ limit, the Jost
+function for the scattering of {\em first} level excitations in the
+$Z_n$\--Baxter model coincides with the Harish\--Chandra\--like $c$\--function
+constructed from the Macdonald polynomials associated to the root system $A_1$.
+The partition function of the $Z_2$\--Baxter model itself is also expressed in
+terms of this Macdonald\--Harish\--Chandra\ $c$\--function, albeit in a less
+simple way. We relate the two parameters $q$ and $t$ of the Macdonald
+polynomials to the anisotropy and modular parameters of the Baxter model. In
+particular the $p$\--adic ``regimes'' in the Macdonald polynomials correspond
+to a discrete sequence of XXZ models. We also discuss the possibility of
+``$q$\--deforming'' Euler products.
+","[{""version"":""v1"",""created"":""Thu, 24 Oct 1991 19:33:53 GMT""}]","2009-10-22"
+"hep-th/9110067","Petr Horava","Petr Horava","Some Exact Solutions of String Theory in Four and Five Dimensions","14 pages","Phys.Lett. B278 (1992) 101-110","10.1016/0370-2693(92)90719-K",,"hep-th",,"  We find several classes of exact classical solutions of critical bosonic
+string theory, constructed as twisted products of one Euclidean and one
+Minkowskian 2D black hole coset. One class of these solutions leads (after
+tensoring with free scalars and supersymmetrizing) to a rotating version of the
+recently discovered exact black fivebrane. Another class represents a
+one-parameter family of axisymmetric stationary four-dimensional targets with
+horizons. Global properties and target duality of the 4D solutions are briefly
+analyzed.
+","[{""version"":""v1"",""created"":""Thu, 24 Oct 1991 20:17:00 GMT""}]","2009-10-22"

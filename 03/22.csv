@@ -1,0 +1,6 @@
+"math/9201224",,"Edward Odell","On Schreier unconditional sequences",,,,"Banach Archive 3/22/91","math.FA",,"  Let $(x_n)$ be a normalized weakly null sequence in a Banach space and let
+$\varep>0$. We show that there exists a subsequence $(y_n)$ with the following
+property: $$\hbox{ if }\ (a_i)\subseteq \IR\ \hbox{ and }\ F\subseteq \nat$$
+satisfies $\min F\le |F|$ then $$\big\|\sum_{i\in F} a_i y_i\big\| \le
+(2+\varep) \big\| \sum a_iy_i\big\|\ . $$
+","[{""version"":""v1"",""created"":""Fri, 22 Mar 1991 00:00:00 GMT""}]","2008-02-03"

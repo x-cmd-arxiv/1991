@@ -1,0 +1,28 @@
+"hep-th/9112045","Olaf Lechtenfeld","Olaf Lechtenfeld","Semiclassical Approach to Finite-N Matrix Models","27 pages / 3 figures (ps file fixed)","Int.J.Mod.Phys.A7:7097-7118,1992","10.1142/S0217751X92003264",,"hep-th",,"  We reformulate the zero-dimensional hermitean one-matrix model as a
+(nonlocal) collective field theory, for finite~$N$. The Jacobian arising by
+changing variables from matrix eigenvalues to their density distribution is
+treated {\it exactly\/}. The semiclassical loop expansion turns out {\it not\/}
+to coincide with the (topological) ${1\over N}$~expansion, because the
+classical background has a non-trivial $N$-dependence. We derive a simple
+integral equation for the classical eigenvalue density, which displays strong
+non-perturbative behavior around $N\!=\!\infty$. This leads to IR singularities
+in the large-$N$ expansion, but UV divergencies appear as well, despite
+remarkable cancellations among the Feynman diagrams. We evaluate the free
+energy at the two-loop level and discuss its regularization. A simple example
+serves to illustrate the problems and admits explicit comparison with
+orthogonal polynomial results.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 16:25:46 GMT""},{""version"":""v2"",""created"":""Wed, 18 Dec 1991 05:42:55 GMT""}]","2010-11-01"
+"hep-th/9112046","Kanehisa Takasaki","Kanehisa Takasaki and Takashi Takebe","SDiff(2) KP hierarchy","34 pages (errors in earlier and published versions are corrected)","Int.J.Mod.Phys. A7S1B (1992) 889-922","10.1142/S0217751X92004099","RIMS-814","hep-th nlin.SI solv-int",,"  An analogue of the KP hierarchy, the SDiff(2) KP hierarchy, related to the
+group of area-preserving diffeomorphisms on a cylinder is proposed. An improved
+Lax formalism of the KP hierarchy is shown to give a prototype of this new
+hierarchy. Two important potentials, $S$ and $\tau$, are introduced. The latter
+is a counterpart of the tau function of the ordinary KP hierarchy. A
+Riemann-Hilbert problem relative to the group of area-diffeomorphisms gives a
+twistor theoretical description (nonlinear graviton construction) of general
+solutions. A special family of solutions related to topological minimal models
+are identified in the framework of the Riemann-Hilbert problem. Further,
+infinitesimal symmetries of the hierarchy are constructed. At the level of the
+tau function, these symmetries obey anomalous commutation relations, hence
+leads to a central extension of the algebra of infinitesimal area-preserving
+diffeomorphisms (or of the associated Poisson algebra).
+","[{""version"":""v1"",""created"":""Wed, 18 Dec 1991 05:35:59 GMT""},{""version"":""v2"",""created"":""Mon, 1 Feb 1993 03:24:32 GMT""}]","2009-10-22"

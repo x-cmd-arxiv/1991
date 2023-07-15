@@ -1,0 +1,23 @@
+"hep-th/9109007","Joe Polchinski","Joseph Polchinski","High Temperature Limit of the Confining Phase","13 pages","Phys.Rev.Lett.68:1267-1270,1992","10.1103/PhysRevLett.68.1267",,"hep-th",,"  The deconfining transition in non-Abelian gauge theory is known to occur by a
+condensation of Wilson lines. By expanding around an appropriate Wilson line
+background, it is possible at large $N$ to analytically continue the confining
+phase to arbitrarily high temperatures, reaching a weak coupling confinement
+regime. This is used to study the high temperature partition function of an
+$SU(N)$ electric flux tube. It is found that the partition function corresponds
+to that of a string theory with a number of world-sheet fields that diverges at
+short distance.
+","[{""version"":""v1"",""created"":""Thu, 5 Sep 1991 17:31:37 GMT""}]","2009-10-09"
+"hep-th/9109008",,"Zhu Yang","Effective Superstrings","17 pages (including the title page)","Nucl.Phys. B377 (1992) 528-540","10.1016/0550-3213(92)90300-Z",,"hep-th",,"  We generalize the method of quantizing effective strings proposed by
+Polchinski and Strominger to superstrings. The Ramond-Neveu-Schwarz string is
+different from the Green-Schwarz string in non-critical dimensions. Both are
+anomaly-free and Poincare invariant. Some implications of the results are
+discussed. The formal analogy with 4D (super)gravity is pointed out.
+","[{""version"":""v1"",""created"":""Thu, 5 Sep 1991 18:25:00 GMT""}]","2009-10-22"
+"hep-th/9109009","Feng Yu","Feng Yu","Bi-Hamiltonian Sturcture of Super KP Hierarchy","20 pages",,,,"hep-th",,"  We obtain the bi-Hamiltonian structure of the super KP hierarchy based on the
+even super KP operator $\Lambda = \theta^{2} + \sum^{\infty}_{i=-2}U_{i}
+\theta^{-i-1}$, as a supersymmetric extension of the ordinary KP bi-Hamiltonian
+structure. It is expected to give rise to a universal super $W$-algebra
+incorporating all known extended superconformal $W_{N}$ algebras by reduction.
+We also construct the super BKP hierarchy by imposing a set of anti-self-dual
+constraints on the super KP hierarchy.
+","[{""version"":""v1"",""created"":""Fri, 6 Sep 1991 03:37:07 GMT""}]","2007-05-23"

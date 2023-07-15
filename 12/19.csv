@@ -1,0 +1,86 @@
+"hep-th/9112047","Maximilian Kreuzer","M. Kreuzer, R. Schimmrigk, H. Skarke","Abelian Landau--Ginzburg Orbifolds and Mirror Symmetry","25 pages","Nucl.Phys. B372 (1992) 61-86","10.1016/0550-3213(92)90312-Y",,"hep-th",,"  We construct a class of Heterotic String vacua described by Landau--Ginzburg
+theories and consider orbifolds of these models with respect to abelian
+symmetries. For LG--vacua described by potentials in which at most three
+scaling fields are coupled we explicitly construct the chiral ring and discuss
+its diagonalization with respect to its most general abelian symmetry. For
+theories with couplings between at most two fields we present results of an
+explicit construction of the LG--potentials and their orbifolds. The emerging
+space of (2,2)--theories shows a remarkable mirror symmetry. It also contains a
+number of new three--generation models.
+","[{""version"":""v1"",""created"":""Wed, 18 Dec 1991 16:33:17 GMT""}]","2009-10-22"
+"hep-th/9112048","Jean Zinn-Justin","J. Zinn-Justin","$O(N)$ Vector Field Theories in the Double Scaling Limit","15 pages","Phys.Lett.B257:335-340,1991","10.1016/0370-2693(91)91902-8",,"hep-th",,"  $O(N)$ invariant vector models have been shown to possess non-trivial scaling
+large $N$ limits, at least perturbatively within the loop expansion, a property
+they share with matrix models of 2D quantum gravity. In contrast with matrix
+models, however, vector models can be solved in arbitrary dimensions. We
+present here the analysis of field theory vector models in $d$ dimensions and
+discuss the nature and form of the critical behaviour. The double scaling limit
+corresponds for $d>1$ to a situation where a bound state of the $N$-component
+fundamental vector field $\phi$, associated with the $\phi^2$ composite
+operator, becomes massless, while the field $\phi$ itself remains massive. The
+limiting model can be described by an effective local interaction for the
+corresponding $O(N)$ invariant field. It has a physical interpretation as
+describing the statistical properties of a class of branched polymers.\par It
+is hoped that the $O(N)$ vector models, which can be investigated in their most
+general form, can serve as a test ground for new ideas about the behaviour of
+2D quantum gravity coupled with $d>1$ matter.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 09:55:23 GMT""}]","2011-04-20"
+"hep-th/9112049","Jan Louis","Sergio Ferrara and Jan Louis","Flat Holomorphic Connections and Picard-Fuchs Identities From $N=2$
+  Supergravity","13pages","Phys.Lett. B278 (1992) 240-245","10.1016/0370-2693(92)90188-A",,"hep-th",,"  We show that in special K\""ahler geometry of $N=2$ space-time supergravity
+the gauge variant part of the connection is holomorphic and flat (in a
+Riemannian sense). A set of differential identities (Picard-Fuchs identities)
+are satisfied on a holomorphic bundle. The relationship with the differential
+equations obeyed by the periods of the holomorphic three form of Calabi-Yau
+manifolds is outlined.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 10:38:34 GMT""}]","2009-10-22"
+"hep-th/9112050",,"Luis E. Ibanez","Topics in String Unification","22 pages. Talk given at the ``Workshop on Electroweak Physics Beyond
+  the Standard Model'', Valencia, 3-5 October 1991",,,,"hep-th",,"  I discuss several aspects of strings as unified theories. After recalling the
+difficulties of the simplest supersymmetric grand unification schemes I
+emphasize the distinct features of string unification. An important role in
+constraining the effective low energy physics from strings is played by
+$duality$ symmetries. The discussed topics include the unification of coupling
+constants (computation of $\sin ^2\theta _W$ and $\alpha _s$ at the weak
+scale), supersymmetry breaking through gaugino condensation, and properties of
+the induced SUSY-breaking soft terms. I remark that departures from
+universality in the soft terms are (in contrast to the minimal SUSY model)
+generically expected.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 13:42:08 GMT""}]","2008-02-06"
+"hep-th/9112051",,"J.M.F. Labastida and P.M. Llatas","Topological Matter in Two Dimensions","46 pages","Nucl.Phys. B379 (1992) 220-258","10.1016/0550-3213(92)90596-4",,"hep-th",,"  Topological quantum field theories containing matter fields are constructed
+by twisting $N=2$ supersymmetric quantum field theories. It is shown that $N=2$
+chiral (antichiral) multiplets lead to topological sigma models while $N=2$
+twisted chiral (twisted antichiral) multiplets lead to Landau-Ginzburg type
+topological quantum field theories. In addition, topological gravity in two
+dimensions is formulated using a gauge principle applied to the topological
+algebra which results after the twisting of $N=2$ supersymmetry.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 14:46:00 GMT""}]","2009-10-22"
+"hep-th/9112053",,"Generalized Integrable Lattice Systems","C.S.Xiong","12pages","Phys.Lett. B279 (1992) 341-346","10.1016/0370-2693(92)90402-P",,"hep-th",,"  We generalize Toda--like integrable lattice systems to non--symmetric case.
+We show that they possess the bi--Hamiltonian structure.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 15:24:00 GMT""}]","2015-06-26"
+"hep-th/9112055","Theor. department Fian","A.M.Semikhatov","A Conformal Field Theory Formalism from Integrable Hierarchies via the
+  Kontsevich--Miwa Transform","10 pages","JETP Lett.55:199-205,1992; Pisma Zh.Eksp.Teor.Fiz.55:205-211,1992",,,"hep-th",,"  We attempt a direct derivation of a conformal field theory description of 2D
+quantum gravity~+~matter from the formalism of integrable hierarchies subjected
+to Virasoro constraints. The construction is based on a generalization of the
+Kontsevich parametrization of the KP times by introducing Miwa parameters into
+it. The resulting Kontsevich--Miwa transform can be applied to the Virasoro
+constraints provided the Miwa parameters are related to the background charge
+$Q$ of the Virasoro generators on the hierarchy. We then recover the field
+content of the David-Distler-Kawai formalism, with the matter theory
+represented by a scalar with the background charge $Q_m=Q-{Q\over 2}$. In
+particular, the tau function is related to the correlator of a product of the
+`21' operators of the minimal model with central charge $d=1-3Q_m^2$.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 10:43:56 GMT""}]","2010-12-01"
+"hep-th/9112067",,"M. Bellon, J-M. Maillard, C. Viallet","On the Symmetries of Integrability","23 pages","Phys.Rev.Lett. 67 (1991) 1373-1376","10.1103/PhysRevLett.67.1373",,"hep-th",,"  We show that the Yang-Baxter equations for two dimensional models admit as a
+group of symmetry the infinite discrete group $A_2^{(1)}$. The existence of
+this symmetry explains the presence of a spectral parameter in the solutions of
+the equations. We show that similarly, for three-dimensional vertex models and
+the associated tetrahedron equations, there also exists an infinite discrete
+group of symmetry. Although generalizing naturally the previous one, it is a
+much bigger hyperbolic Coxeter group. We indicate how this symmetry can help to
+resolve the Yang-Baxter equations and their higher-dimensional generalizations
+and initiate the study of three-dimensional vertex models. These symmetries are
+naturally represented as birational projective transformations. They may
+preserve non trivial algebraic varieties, and lead to proper parametrizations
+of the models, be they integrable or not. We mention the relation existing
+between spin models and the Bose-Messner algebras of algebraic combinatorics.
+Our results also yield the generalization of the condition $q^n=1$ so often
+mentioned in the theory of quantum groups, when no $q$ parameter is available.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 10:46:24 GMT""}]","2009-10-22"

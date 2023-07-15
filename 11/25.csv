@@ -1,0 +1,35 @@
+"hep-th/9111049","Norisuke Sakai","Norisuke Sakai and Yoshiaki Tanii","Operator Product Expansion and Topological States in $c = 1$ Matter
+  Coupled to 2-D Gravity","30 pages","Prog.Theor.Phys.Suppl.110:117-134,1992","10.1143/PTPS.110.117",,"hep-th",,"  Factorization of the $N$-tachyon amplitudes in two-dimensional $c=1$ quantum
+gravity is studied by means of the operator product expansion of vertex
+operators after the Liouville zero mode integration. Short-distance
+singularities between two tachyons with opposite chiralities account for all
+singularities in the $N$-tachyon amplitudes. Although the factorization is
+valid, other possible short-distance singularities corresponding to other
+combinations of vertex operators are absent since the residue vanishes. Apart
+from the tachyon states, there are infinitely many topological states
+contributing to the intermediate states. This is a more detailed account of our
+short communication on the factorization.
+","[{""version"":""v1"",""created"":""Mon, 25 Nov 1991 02:33:23 GMT""}]","2008-11-26"
+"hep-th/9111050","Hisahiro Yoshii o-4242","Hisahiro Yoshii","On Moduli Space of C=0 Topological Conformal Field Theories","8 pages","Phys.Lett. B275 (1992) 70-74","10.1016/0370-2693(92)90852-U",,"hep-th",,"  We studied the marginal deformation of the $c=0$ topological conformal field
+theories (TCFT). We showed that topological $SL(2)$ Wess-Zumino-Witten (WZW)
+model, topological superconformal ghost system, TCFT constructed from the $N=2$
+superconformal system and two dimensional topological gravity belong to the
+same one parameter family (moduli space) of the $c=0$ TCFT's. We conjectured
+that the $N=2$ TCFT constructed from the Wolf space realization of $N=4$
+superconformal algebra belongs to another family.
+","[{""version"":""v1"",""created"":""Mon, 25 Nov 1991 05:57:06 GMT""}]","2009-10-22"
+"hep-th/9111051","Theor. department Fian","A.M.Semikhatov","Kontsevich - Miwa Transform of the Virasoro Constraints as Null-Vector
+  Decoupling Equations","17 pages",,,,"hep-th",,"  We use the Kontsevich--Miwa transform to relate the Virasoro constraints on
+integrable hierarchies with the David-Distler-Kawai formalism of
+gravity-coupled conformal theories. The derivation relies on evaluating the
+energy-momentum tensor on the hierarchy at special values of the spectral
+parameter. We thus obtain in the Kontsevich parametrization the `master
+equations' which implement the Virasoro constraints and at the same time
+coincide with null-vector decoupling equations in an `auxiliary' conformal
+field theory on the complex plane of the spectral parameter. This gives the
+operators their gravitational scaling dimensions (for one out of four
+possibilities to choose signs), with the $\alpha_+$ being equal to the
+background charge $Q$ of an abstract $bc$ system underlying the structure of
+the Virasoro constraints. The formalism also generalizes to the $N$-KdV
+hierarchies.
+","[{""version"":""v1"",""created"":""Mon, 25 Nov 1991 08:00:47 GMT""},{""version"":""v2"",""created"":""Thu, 28 Nov 1991 14:44:24 GMT""}]","2008-02-03"

@@ -1,0 +1,8 @@
+"math/9201280","Scott Sutherland","Myong-Hi Kim, Scott Sutherland","Polynomial root-finding algorithms and branched covers",,"SIAM J. Comput. 23 No. 2 (1994), 415-436","10.1137/S0097539791201587","Stony Brook IMS 1991/5","math.DS math.NA",,"  We construct a family of root-finding algorithms which exploit the branched
+covering structure of a polynomial of degree $d$ with a path-lifting algorithm
+for finding individual roots. In particular, the family includes an algorithm
+that computes an $\epsilon$-factorization of the polynomial which has an
+arithmetic complexity of $\Order{d^2(\log d)^2 + d(\log d)^2|\log\epsilon|}$.
+At the present time (1993), this complexity is the best known in terms of the
+degree.
+","[{""version"":""v1"",""created"":""Wed, 13 Mar 1991 00:00:00 GMT""}]","2011-07-26"

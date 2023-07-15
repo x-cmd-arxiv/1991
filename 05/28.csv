@@ -1,0 +1,11 @@
+"math/9201285","Mikhail Lyubich","Mikhail Lyubich","On the Lebesgue measure of the Julia set of a quadratic polynomial",,,,"Stony Brook IMS 1991/10","math.DS",,"  The goal of this note is to prove the following theorem: Let $p_a(z) = z^2+a$
+be a quadratic polynomial which has no irrational indifferent periodic points,
+and is not infinitely renormalizable. Then the Lebesgue measure of the Julia
+set $J(p_a)$ is equal to zero.
+  As part of the proof we discuss a property of the critical point to be {\it
+persistently recurrent}, and relate our results to corresponding ones for real
+one dimensional maps. In particular, we show that in the persistently recurrent
+case the restriction $p_a|\omega(0)$ is topologically minimal and has zero
+topological entropy. The Douady-Hubbard-Yoccoz rigidity theorem follows this
+result.
+","[{""version"":""v1"",""created"":""Tue, 28 May 1991 00:00:00 GMT""}]","2016-09-06"

@@ -1,0 +1,77 @@
+"hep-th/9112052",,"Sumit R. Das, Avinash Dhar, Gautam Mandal and Spenta R. Wadia","$W$-Infinity Ward Identities and Correlation Functions in the $C=1$
+  Matrix Model","17 pages","Mod.Phys.Lett. A7 (1992) 937-954; Erratum-ibid. A7 (1992) 2245","10.1142/S0217732392000835",,"hep-th",,"  We explore consequences of $W$-infinity symmetry in the fermionic field
+theory of the $c=1$ matrix model. We derive exact Ward identities relating
+correlation functions of the bilocal operator. These identities can be
+expressed as equations satisfied by the effective action of a {\it three}
+dimensional theory and contain non-perturbative information about the model. We
+use these identities to calculate the two point function of the bilocal
+operator in the double scaling limit. We extract the operator whose two point
+correlator has a {\it single} pole at an (imaginary) integer value of the
+energy. We then rewrite the \winf~ charges in terms of operators in the matrix
+model and use this derive constraints satisfied by the partition function of
+the matrix model with a general time dependent potential.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 18:37:00 GMT""}]","2009-10-22"
+"hep-th/9112054","John Preskill","John March-Russell, John Preskill, and Frank Wilczek","Internal Frame Dragging and a Global Analog of the Aharonov-Bohm Effect","(14 pp)","Phys.Rev.Lett. 68 (1992) 2567-2571","10.1103/PhysRevLett.68.2567",,"hep-th",,"  It is shown that the breakdown of a {\it global} symmetry group to a discrete
+subgroup can lead to analogues of the Aharonov-Bohm effect. At sufficiently low
+momentum, the cross-section for scattering of a particle with nontrivial $\Z_2$
+charge off a global vortex is almost equal to (but definitely different from)
+maximal Aharonov-Bohm scattering; the effect goes away at large momentum. The
+scattering of a spin-1/2 particle off a magnetic vortex provides an amusing
+experimentally realizable example.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 18:19:13 GMT""}]","2009-10-22"
+"hep-th/9112056",,"Edward Witten","Mirror Manifolds And Topological Field Theory","35 pp",,,,"hep-th",,"  These notes are devoted to explaining aspects of the mirror manifold problem
+that can be naturally understood from the point of view of topological field
+theory. Basically this involves studying the topological field theories made by
+twisting $N=2$ sigma models. This is mainly a review of old results, except for
+the discussion in \S7 of certain facts that may be relevant to constructing the
+``mirror map'' between mirror moduli spaces.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 20:52:00 GMT""}]","2007-05-23"
+"hep-th/9112057","Changrim Ahn","Changrim Ahn and Kazuyasu Shigemoto","One-Point Functions of Loops and Constraints Equations of the
+  Multi-Matrix Models at finite N","12 pages","Phys.Lett. B285 (1992) 42-48","10.1016/0370-2693(92)91297-M",,"hep-th",,"  We derive one-point functions of the loop operators of Hermitian matrix-chain
+models at finite $N$ in terms of differential operators acting on the partition
+functions. The differential operators are completely determined by recursion
+relations from the Schwinger-Dyson equations. Interesting observation is that
+these generating operators of the one-point functions satisfy
+$W_{1+\infty}$-like algebra. Also, we obtain constraint equations on the
+partition functions in terms of the differential operators. These constraint
+equations on the partition functions define the symmetries of the matrix models
+at off-critical point before taking the double scaling limit.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 21:43:15 GMT""}]","2009-10-22"
+"hep-th/9112058","Yuri Makeenko","Yu.Makeenko","Loop Equations and Virasoro Constraints in Matrix Models","22 pages. Talk at XXVth International Symposium on the Theory of
+  Elementary Particles, G\""osen, Germany, September 23--26",,,,"hep-th",,"  In the first part of the talk, I review the applications of loop equations to
+the matrix models and to 2-dimensional quantum gravity which is defined as
+their continuum limit. The results concerning multi-loop correlators for low
+genera and the Virasoro invariance are discussed. The second part is devoted to
+the Kontsevich matrix model which is equivalent to 2-dimensional topological
+gravity. I review the Schwinger--Dyson equations for the Kontsevich model as
+well as their explicit solution in genus zero. The relation between the
+Kontsevich model and the continuum limit of the hermitean one-matrix model is
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 19 Dec 1991 21:22:09 GMT""}]","2007-05-23"
+"hep-th/9112060","J. Goeree","Jan de Boer and Jacob Goeree","W Gravity From Chern--Simons Theory","35 pages","Nucl.Phys. B381 (1992) 329-359","10.1016/0550-3213(92)90650-Z",,"hep-th",,"  Starting with three dimensional Chern--Simons theory with gauge group
+$Sl(N,R)$, we derive an action $S_{cov}$ invariant under both left and right
+$W_N$ transformations. We give an interpretation of $S_{cov}$ in terms of
+anomalies, and discuss its relation with Toda theory.
+","[{""version"":""v1"",""created"":""Fri, 20 Dec 1991 12:52:23 GMT""}]","2009-10-22"
+"hep-th/9112061","Ulf Danielsson","Ulf H. Danielsson","Symmetries and Special States in Two Dimensional String Theory","20 pages","Nucl.Phys. B380 (1992) 83-102","10.1016/0550-3213(92)90516-E",,"hep-th",,"  We use the W-infinity symmetry of c=1 quantum gravity to compute matrix model
+special state correlation functions. The results are compared, and found to
+agree, with expectations from the Liouville model.
+","[{""version"":""v1"",""created"":""Fri, 20 Dec 1991 14:04:34 GMT""},{""version"":""v2"",""created"":""Sat, 8 Feb 1992 18:23:47 GMT""}]","2009-10-22"
+"hep-th/9112062",,"J. Ellis, N. Mavromatos, and D. Nanopoulos","Quantum Mechanics and Black Holes in Four-Dimensional String Theory","18 pages","Phys.Lett.B278:246-256,1992","10.1016/0370-2693(92)90189-B",,"hep-th",,"  In previous papers we have shown how strings in a two-dimensional target
+space reconcile quantum mechanics with general relativity, thanks to an
+infinite set of conserved quantum numbers, ``W-hair'', associated with
+topological soliton-like states. In this paper we extend these arguments to
+four dimensions, by considering explicitly the case of string black holes with
+radial symmetry. The key infinite-dimensional W-symmetry is associated with the
+$\frac{SU(1,1)}{U(1)}$ coset structure of the dilaton-graviton sector that is a
+model-independent feature of spherically symmetric four-dimensional strings.
+Arguments are also given that the enormous number of string {\it discrete
+(topological)} states account for the maintenance of quantum coherence during
+the (non-thermal) stringy evaporation process, as well as quenching the large
+Hawking-Bekenstein entropy associated with the black hole. Defining the latter
+as the measure of the loss of information for an observer at infinity, who -
+ignoring the higher string quantum numbers - keeps track only of the classical
+mass,angular momentum and charge of the black hole, one recovers the familiar a
+quadratic dependence on the black-hole mass by simple counting arguments on the
+asymptotic density of string states in a linear-dilaton background.
+","[{""version"":""v1"",""created"":""Fri, 20 Dec 1991 15:05:00 GMT""}]","2009-09-11"

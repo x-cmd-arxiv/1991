@@ -1,0 +1,34 @@
+"hep-th/9112013","Paul Ginsparg","P. Ginsparg","Matrix models of 2d gravity","Trieste Lectures (July, 1991), 40pp","gava et al., 1991 summer school in h.e.p. and cosmo",,,"hep-th",,"  These are introductory lectures for a general audience that give an overview
+of the subject of matrix models and their application to random surfaces, 2d
+gravity, and string theory. They are intentionally 1.5 years out of date.
+  0. Canned Diatribe, Introduction, and Apologies
+  1. Discretized surfaces, matrix models, and the continuum limit
+  2. All genus partition functions
+  3. KdV equations and other models
+  4. Quick tour of Liouville theory
+","[{""version"":""v1"",""created"":""Fri, 6 Dec 1991 17:39:49 GMT""}]","2007-05-23"
+"hep-th/9112014",,"H. Lu, C.N. Pope, X.J. Wang and K.W. Xu","N=2 Superstrings with (1,2m) Spacetime Signature","8 pages","Phys.Lett.B284:268-272,1992","10.1016/0370-2693(92)90431-3",,"hep-th",,"  We show that the $N=2$ superstring in $d=2D\ge6$ real dimensions, with
+criticality achieved by including background charges in the two real time
+directions, exhibits a ``coordinate-freezing'' phenomenon, whereby the momentum
+in one of the two time directions is constrained to take a specific value for
+each physical state. This effectively removes this time direction as a physical
+coordinate, leaving the theory with $(1,d-2)$ real spacetime signature. Norm
+calculations for low-lying physical states suggest that the theory is ghost
+free.
+","[{""version"":""v1"",""created"":""Fri, 6 Dec 1991 21:02:55 GMT""}]","2009-10-07"
+"hep-th/9112015","Keith R. Dienes","Keith R. Dienes (McGill University) and S.-H. Henry Tye (Cornell
+  University)","Model-Building for Fractional Superstrings","(Paper is between 70-80 pages, depending on fonts used. A macro is
+  enclosed for printing in a two-page landscape format to halve the total
+  number of printed pages.)","Nucl.Phys. B376 (1992) 297-349","10.1016/0550-3213(92)90127-W",,"hep-th",,"  Fractional superstrings are recently-proposed generalizations of the
+traditional superstrings and heterotic strings. They have critical spacetime
+dimensions which are less than ten, and in this paper we investigate
+model-building for the heterotic versions of these new theories. We concentrate
+on the cases with critical spacetime dimensions four and six, and find that a
+correspondence can be drawn between the new fractional superstring models and a
+special subset of the traditional heterotic string models. This allows us to
+generate the partition functions of the new models, and demonstrate that their
+number is indeed relatively limited. It also appears that these strings have
+uniquely natural compactifications to lower dimensions. In particular, the
+fractional superstring with critical dimension six has a natural interpretation
+in four-dimensional spacetime.
+","[{""version"":""v1"",""created"":""Fri, 6 Dec 1991 23:01:15 GMT""}]","2009-10-22"

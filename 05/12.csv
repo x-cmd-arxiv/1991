@@ -1,0 +1,12 @@
+"math/9201284","Scott Sutherland","Elise E. Cawley","The Teichm\""uller space of an Anosov diffeomorphism of $T^2$",,,,"Stony Brook IMS 1991/9","math.DS",,"  In this paper we consider the space of smooth conjugacy classes of an Anosov
+diffeomorphism of the two-torus. The only 2-manifold that supports an Anosov
+diffeomorphism is the 2-torus, and Franks and Manning showed that every such
+diffeomorphism is topologically conjugate to a linear example, and furthermore,
+the eigenvalues at periodic points are a complete smooth invariant. The
+question arises: what sets of eigenvalues occur as the Anosov diffeomorphism
+ranges over a topological conjugacy class? This question can be reformulated:
+what pairs of cohomology classes (one determined by the expanding eigenvalues,
+and one by the contracting eigenvalues) occur as the diffeomorphism ranges over
+a topological conjugacy class? The purpose of this paper is to answer this
+question: all pairs of H\""{o}lder reduced cohomology classes occur.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1991 00:00:00 GMT""}]","2016-09-06"

@@ -1,0 +1,5 @@
+"cs/9301113","Maggie McLoughlin","Donald E. Knuth","Textbook examples of recursion",,"Artificial intelligence and mathematical theory of computation",,"Knuth migration 11/2004 207-229, Academic Press, Boston, MA, 1991","cs.CC",,"  We discuss properties of recursive schemas related to McCarthy's ``91
+function'' and to Takeuchi's triple recursion. Several theorems are proposed as
+interesting candidates for machine verification, and some intriguing open
+questions are raised.
+","[{""version"":""v1"",""created"":""Thu, 1 Aug 1991 00:00:00 GMT""}]","2008-02-03"

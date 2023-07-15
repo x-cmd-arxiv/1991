@@ -1,0 +1,16 @@
+"math/9201277","Yunping Jiang","Yunping Jiang","Dynamics of certain smooth one-dimensional mappings I: The
+  $C^{1+\alpha}$-Denjoy-Koebe distortion lemma",,,,"Stony Brook IMS 1991/1a","math.DS",,"  We prove a technical lemma, the $C^{1+\alpha }$-Denjoy-Koebe distortion
+lemma, estimating the distortion of a long composition of a $C^{1+\alpha }$
+one-dimensional mapping $f:M\mapsto M$ with finitely many, non-recurrent, power
+law critical points. The proof of this lemma combines the ideas of the
+distortion lemmas of Denjoy and Koebe.
+","[{""version"":""v1"",""created"":""Fri, 11 Jan 1991 00:00:00 GMT""}]","2016-09-06"
+"math/9201278","Yunping Jiang","Yunping Jiang","Dynamics of certain smooth one-dimensional mappings II: geometrically
+  finite one-dimensional mappings",,,,"Stony Brook IMS 1991/1b","math.DS",,"  We study geometrically finite one-dimensional mappings. These are a subspace
+of $C^{1+\alpha}$ one-dimensional mappings with finitely many, critically
+finite critical points. We study some geometric properties of a mapping in this
+subspace. We prove that this subspace is closed under quasisymmetrical
+conjugacy. We also prove that if two mappings in this subspace are
+topologically conjugate, they are then quasisymmetrically conjugate. We show
+some examples of geometrically finite one-dimensional mappings.
+","[{""version"":""v1"",""created"":""Fri, 11 Jan 1991 00:00:00 GMT""}]","2008-02-03"

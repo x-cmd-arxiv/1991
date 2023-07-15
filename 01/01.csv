@@ -1,0 +1,7 @@
+"math/9201304","Maggie McLoughlin","Donald E. Knuth","Efficient representation of perm groups",,"Combinatorica 11 (1991), no. 1, 33--43",,"Knuth migration 11/2004","math.GR",,"  This note presents an elementary version of Sims's algorithm for computing
+strong generators of a given perm group, together with a proof of correctness
+and some notes about appropriate low-level data structures. Upper and lower
+bounds on the running time are also obtained. (Following a suggestion of
+Vaughan Pratt, we adopt the convention that perm $=$ permutation, perhaps
+thereby saving millions of syllables in future research.)
+","[{""version"":""v1"",""created"":""Tue, 1 Jan 1991 00:00:00 GMT""}]","2008-02-03"

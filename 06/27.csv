@@ -1,0 +1,21 @@
+"math/9201287","Yunping Jiang","Yunping Jiang","Dynamics of certain smooth one-dimensional mappings III: Scaling
+  function geometry",,,,"Stony Brook IMS 1991/12a","math.DS",,"  We study scaling function geometry. We show the existence of the scaling
+function of a geometrically finite one-dimensional mapping. This scaling
+function is discontinuous. We prove that the scaling function and the
+asymmetries at the critical points of a geometrically finite one-dimensional
+mapping form a complete set of $C^{1}$-invariants within a topological
+conjugacy class.
+","[{""version"":""v1"",""created"":""Thu, 27 Jun 1991 00:00:00 GMT""}]","2008-02-03"
+"math/9201288","Yunping Jiang","Yunping Jiang","Dynamics of certain smooth one-dimensional mappings IV: Asymptotic
+  geometry of Cantor sets",,,,"Stony Brook IMS 1991/12b","math.DS",,"  We study hyperbolic mappings depending on a parameter $\varepsilon $. Each of
+them has an invariant Cantor set. As $\varepsilon $ tends to zero, the mapping
+approaches the boundary of hyperbolicity. We analyze the asymptotics of the gap
+geometry and the scaling function geometry of the invariant Cantor set as
+$\varepsilon $ goes to zero. For example, in the quadratic case, we show that
+all the gaps close uniformly with speed $\sqrt {\varepsilon}$. There is a
+limiting scaling function of the limiting mapping and this scaling function has
+dense jump discontinuities because the limiting mapping is not expanding.
+Removing these discontinuities by continuous extension, we show that we obtain
+the scaling function of the limiting mapping with respect to the Ulam-von
+Neumann type metric.
+","[{""version"":""v1"",""created"":""Thu, 27 Jun 1991 00:00:00 GMT""}]","2016-09-06"

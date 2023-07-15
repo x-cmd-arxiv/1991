@@ -1,0 +1,90 @@
+"hep-th/9112036","Peter Bouwknegt","P. Bouwknegt, J. McCarthy and K. Pilch","Ground ring for the 2D NSR string","31 pages","Nucl.Phys.B377:541-570,1992","10.1016/0550-3213(92)90301-Q",,"hep-th",,"  We discuss the BSRT quantization of 2D $N=1$ supergravity coupled to
+superconformal matter with $\hat{c} \leq 1$ in the conformal gauge. The
+physical states are computed as BRST cohomology. In particular, we consider the
+ring structure and associated symmetry algebra for the 2D superstring ($\hat{c}
+= 1$).
+","[{""version"":""v1"",""created"":""Mon, 16 Dec 1991 22:06:45 GMT""}]","2009-09-11"
+"hep-th/9112037","Vipul Periwal","Robert C. Myers and Vipul Periwal","From polymers to quantum gravity: triple-scaling in rectangular matrix
+  models","29 pages","Nucl.Phys. B390 (1993) 716-746","10.1016/0550-3213(93)90496-C",,"hep-th",,"  Rectangular $N\times M$ matrix models can be solved in several qualitatively
+distinct large $N$ limits, since two independent parameters govern the size of
+the matrix. Regarded as models of random surfaces, these matrix models
+interpolate between branched polymer behaviour and two-dimensional quantum
+gravity. We solve such models in a `triple-scaling' regime in this paper, with
+$N$ and $M$ becoming large independently. A correspondence between phase
+transitions and singularities of mappings from ${\bf R}^2$ to ${\bf R}^2$ is
+indicated. At different critical points, the scaling behavior is determined by:
+i) two decoupled ordinary differential equations; ii) an ordinary differential
+equation and a finite difference equation; or iii) two coupled partial
+differential equations. The Painlev\'e II equation arises (in conjunction with
+a difference equation) at a point associated with branched polymers. For
+critical points described by partial differential equations, there are dual
+weak-coupling/strong-coupling expansions. It is conjectured that the new
+physics is related to microscopic topology fluctuations.
+","[{""version"":""v1"",""created"":""Mon, 16 Dec 1991 23:51:12 GMT""}]","2009-10-22"
+"hep-th/9112038","John Preskill","Mark Alford, Kai-Ming Lee, John March-Russell, and John Preskill","Quantum Field Theory of Nonabelian Strings and Vortices","(82 pp)","Nucl.Phys. B384 (1992) 251-317","10.1016/0550-3213(92)90468-Q",,"hep-th",,"  We develop an operator formalism for investigating the properties of
+nonabelian cosmic strings (and vortices) in quantum field theory. Operators are
+constructed that introduce classical string sources and that create dynamical
+string loops. The operator construction in lattice gauge theory is explicitly
+described, and correlation functions are computed in the strong--coupling and
+weak--coupling limits. These correlation functions are used to study the
+long--range interactions of nonabelian strings, taking account of
+charge--screening effects due to virtual particles. Among the phenomena
+investigated are the Aharonov--Bohm interactions of strings with charged
+particles, holonomy interactions between string loops, string entanglement, the
+transfer of ``Cheshire charge'' to a string loop, and domain wall decay via
+spontaneous string nucleation. We also analyze the Aharonov--Bohm interactions
+of magnetic monopoles with electric flux tubes in a confining gauge theory. We
+propose that the Aharonov--Bohm effect can be invoked to distinguish among
+various phases of a nonabelian gauge theory coupled to matter.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 01:54:28 GMT""}]","2009-10-22"
+"hep-th/9112039","John Preskill","Martin Bucher, Hoi-Kwong Lo, and John Preskill","Topological Approach to Alice Electrodynamics","(26 pp)","Nucl.Phys. B386 (1992) 3-26","10.1016/0550-3213(92)90173-9",,"hep-th",,"  We analyze the unlocalized ``Cheshire charge'' carried by ``Alice strings.''
+The magnetic charge on a string loop is carefully defined, and the transfer of
+magnetic charge from a monopole to a string loop is analyzed using global
+topological methods. A semiclassical theory of electric charge transfer is also
+described.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 01:56:50 GMT""}]","2009-10-22"
+"hep-th/9112040","John Preskill","Martin Bucher, Kai-Ming Lee, and John Preskill","On Detecting Discrete Cheshire Charge","(17 pp)","Nucl.Phys. B386 (1992) 27-42","10.1016/0550-3213(92)90174-A",,"hep-th",,"  We analyze the charges carried by loops of string in models with non-abelian
+local discrete symmetry. The charge on a loop has no localized source, but can
+be detected by means of the Aharonov--Bohm interaction of the loop with another
+string. We describe the process of charge detection, and the transfer of charge
+between point particles and string loops, in terms of gauge--invariant
+correlation functions.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 01:57:18 GMT""}]","2009-10-22"
+"hep-th/9112041","Kanehisa Takasaki","Kanehisa Takasaki","Area-Preserving Diffeomorphisms and Nonlinear Integrable Systems","16 pages",,,,"hep-th nlin.SI solv-int",,"  Present state of the study of nonlinear ``integrable"" systems related to the
+group of area-preserving diffeomorphisms on various surfaces is overviewed.
+Roles of area-preserving diffeomorphisms in 4-d self-dual gravity are reviewed.
+Recent progress in new members of this family, the SDiff(2) KP and Toda
+hierarchies, is reported. The group of area-preserving diffeomorphisms on a
+cylinder plays a key role just as the infinite matrix group GL($\infty$) does
+in the ordinary KP and Toda lattice hierarchies. The notion of tau functions is
+also shown to persist in these hierarchies, and gives rise to a central
+extension of the corresponding Lie algebra.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 07:35:26 GMT""}]","2008-02-03"
+"hep-th/9112042","Kanehisa Takasaki","Kanehisa Takasaki and Takashi Takebe","SDiff(2) Toda equation -- hierarchy, $\tau$ function, and symmetries","16 pages (``vanilla.sty"" is attatched to the end of this file after
+  ``\bye"" command)","Lett.Math.Phys. 23 (1991) 205-214","10.1007/BF01885498",,"hep-th nlin.SI solv-int",,"  A continuum limit of the Toda lattice field theory, called the SDiff(2) Toda
+equation, is shown to have a Lax formalism and an infinite hierarchy of higher
+flows. The Lax formalism is very similar to the case of the self-dual vacuum
+Einstein equation and its hyper-K\""ahler version, however now based upon a
+symplectic structure and the group SDiff(2) of area preserving diffeomorphisms
+on a cylinder $S^1 \times \R$. An analogue of the Toda lattice tau function is
+introduced. The existence of hidden SDiff(2) symmetries are derived from a
+Riemann-Hilbert problem in the SDiff(2) group. Symmetries of the tau function
+turn out to have commutator anomalies, hence give a representation of a central
+extension of the SDiff(2) algebra.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 07:41:29 GMT""}]","2009-10-22"
+"hep-th/9112043","Tsuneo Uematsu","Ken-ichiro Kobayashi and Tsuneo Uematsu","Quantum Conserved Charges and S-matrices in N=2 Supersymmetric
+  Sine-Gordon Theory","22 pages","Prog.Theor.Phys.Suppl.110:347-364,1992","10.1143/PTPS.110.347",,"hep-th",,"  We study the quantum conserved charges and S-matrices of N=2 supersymmetric
+sine-Gordon theory in the framework of perturbation theory formulated in N=2
+superspace. The quantum affine algebras ${\widehat {sl_{q}(2)}}$ and super
+topological charges play important roles in determining the N=2 soliton
+structure and S-matrices of soliton-(anti)soliton as well as soliton-breather
+scattering.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 09:23:29 GMT""}]","2008-11-26"
+"hep-th/9112044",,"M. Gasperini and G. Veneziano","$O(d,d)$-Covariant String Cosmology","13 pages","Phys.Lett. B277 (1992) 256-264","10.1016/0370-2693(92)90744-O",,"hep-th",,"  The recently discovered $O(d,d)$ symmetry of the space of slowly varying
+cosmological string vacua in $d+1$ dimensions is shown to be preserved in the
+presence of bulk string matter. The existence of $O(d,d)$ conserved currents
+allows all the equations of string cosmology to be reduced to first-order
+differential equations. The perfect-fluid approximation is not
+$O(d,d)$-invariant, implying that stringy fluids possess in general a
+non-vanishing viscosity.
+","[{""version"":""v1"",""created"":""Tue, 17 Dec 1991 11:41:00 GMT""}]","2009-10-22"

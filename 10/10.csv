@@ -1,0 +1,25 @@
+"hep-th/9110025","Nigel J. Burroughs","Nigel J. Burroughs","Coadjoint Orbits of the Generalised Sl(2) Sl(3) Kdv Hierarchies","37 pages","Nucl.Phys. B379 (1992) 340-376","10.1016/0550-3213(92)90600-G",,"hep-th math.QA",,"  In this paper we develop two coadjoint orbit constructions for the phase
+spaces of the generalised $Sl(2)$ and $Sl(3)$ KdV hierachies. This involves the
+construction of two group actions in terms of Yang Baxter operators, and an
+Hamiltonian reduction of the coadjoint orbits. The Poisson brackets are
+reproduced by the Kirillov construction. From this construction we obtain a
+`natural' gauge fixing proceedure for the generalised hierarchies.
+","[{""version"":""v1"",""created"":""Wed, 9 Oct 1991 22:27:00 GMT""}]","2009-10-22"
+"hep-th/9110026",,"David C. Lewellen","Effective String Amplitudes for Hadronic Physics","36pp","Nucl.Phys. B392 (1993) 137-161","10.1016/0550-3213(93)90200-9",,"hep-th",,"  We propose using the general structure and properties of conformal field
+theory amplitudes, in particular those defined on surfaces with boundaries, to
+explore effective string theory amplitudes for some hadronic processes. Two
+examples are considered to illustrate the approach. In one a natural mechanism
+for chiral symmetry breaking within the string picture is proposed. One
+consequence is that the vertex operator for pion emission (at zero momentum)
+behaves like a world sheet current evaluated on the string boundary. This fact
+is used to rederive, in a more general setting, hadronic mass relations found
+in the early days of string theory by Lovelace, and Ademollo, Veneziano and
+Weinberg. In the second example, we derive the general structure of the form
+factor for the emission of a pomeron (interpreted as a closed string) from a
+meson or baryon. The result reconciles the interpretation of the pomeron as a
+closed string, emitted from the interior of the meson or baryon world sheet,
+with the additive quark rules for total hadronic cross sections. We also review
+the difficulties involved in constructing complete effective string theories
+for hadrons, and comment on the relation between the intercepts of trajectories
+and the short distance behavior of the underlying theory.
+","[{""version"":""v1"",""created"":""Thu, 10 Oct 1991 01:10:00 GMT""},{""version"":""v2"",""created"":""Thu, 10 Oct 1991 06:19:00 GMT""}]","2009-10-22"

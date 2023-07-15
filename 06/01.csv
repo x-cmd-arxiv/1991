@@ -1,0 +1,21 @@
+"math/9201227","Gilles Pisier","Gilles Pisier","Remarks on complemented subspaces of von-Neumann algebras",,,,"Banach Archive 5/31/91","math.OA math.FA",,"  In this note we include two remarks about bounded ($\underline{not}$
+necessarily contractive) linear projections on a von Neumann-algebra. We show
+that if $M$ is a von Neumann-subalgebra of $B(H)$ which is complemented in B(H)
+and isomorphic to $M \otimes M$ then $M$ is injective (or equivalently $M$ is
+contractively complemented). We do not know how to get rid of the second
+assumption on $M$. In the second part,we show that any complemented reflexive
+subspace of a $C^*$- algebra is necessarily linearly isomorphic to a Hilbert
+space.
+","[{""version"":""v1"",""created"":""Fri, 31 May 1991 20:02:35 GMT""}]","2009-09-25"
+"math/9201305","Greg Kuperberg","Noam Elkies (Harvard), Greg Kuperberg (UC Berkeley), Michael Larsen (U
+  Penn), James Propp (MIT)","Alternating sign matrices and domino tilings",,"J. Algebraic Combin. 1 (1992), no. 2, 111--132; J. Algebraic
+  Combin. 1 (1992), no. 3, 219-234",,"Kuperberg migration 11/2004","math.CO",,"  We introduce a family of planar regions, called Aztec diamonds, and study the
+ways in which these regions can be tiled by dominoes. Our main result is a
+generating function that not only gives the number of domino tilings of the
+Aztec diamond of order $n$ but also provides information about the orientation
+of the dominoes (vertical versus horizontal) and the accessibility of one
+tiling from another by means of local modifications. Several proofs of the
+formula are given. The problem turns out to have connections with the
+alternating sign matrices of Mills, Robbins, and Rumsey, as well as the square
+ice model studied by Lieb.
+","[{""version"":""v1"",""created"":""Sat, 1 Jun 1991 00:00:00 GMT""}]","2008-02-03"

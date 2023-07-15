@@ -1,0 +1,26 @@
+"hep-th/9112031",,"W.A. Leaf-Herrmann","From Here to Criticality: Renormalization Group Flow Between Two
+  Conformal Field Theories","37 pages + 8 figures","Nucl.Phys. B389 (1993) 611-644","10.1016/0550-3213(93)90356-T",,"hep-th",,"  Using nonperturbative techniques, we study the renormalization group
+trajectory between two conformal field theories. Specifically, we investigate a
+perturbation of the A3 superconformal minimal model such that in the infrared
+limit the theory flows to the A2 model. The correlation functions in the
+topological sector of the theory are computed numerically along the trajectory,
+and these results are compared to the expected asymptotic behavior. Excellent
+agreement is found, and the characteristic features of the infrared theory,
+including the central charge and the normalized operator product expansion
+coefficients are obtained. We also review and discuss some aspects of the
+geometrical description of N=2 supersymmetric quantum field theories recently
+uncovered by S. Cecotti and C. Vafa.
+","[{""version"":""v1"",""created"":""Fri, 13 Dec 1991 21:15:56 GMT""}]","2009-10-22"
+"hep-th/9112032",,"Michael Lassig","Multiple Crossover Phenomena and Scale Hopping in Two Dimensions","20 pages, 5 figures","Nucl.Phys. B380 (1992) 601-620","10.1016/0550-3213(92)90261-9",,"hep-th",,"  We study the renormalization group for nearly marginal perturbations of a
+minimal conformal field theory M_p with p >> 1. To leading order in
+perturbation theory, we find a unique one-parameter family of ``hopping
+trajectories'' that is characterized by a staircase-like renormalization group
+flow of the C-function and the anomalous dimensions and that is related to a
+recently solved factorizable scattering theory. We argue that this system is
+described by interactions of the form t phi_{(1,3)} - t' \phi_{(3,1)} . As a
+function of the relevant parameter t, it undergoes a phase transition with new
+critical exponents simultaneously governed by all fixed points M_p, M_{p-1},
+..., M_3. Integrable lattice models represent different phases of the same
+integrable system that are distinguished by the sign of the irrelevant
+parameter t'.
+","[{""version"":""v1"",""created"":""Fri, 13 Dec 1991 22:06:31 GMT""}]","2009-10-22"

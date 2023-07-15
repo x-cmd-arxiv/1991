@@ -1,0 +1,8 @@
+"math/9201297","Christopher Gol\'e","Christopher Gol\'e","Periodic orbits for Hamiltonian systems in cotangent bundles",,,,"Stony Brook IMS 1991/21","math.DS",,"  We prove the existence of at least $cl(M)$ periodic orbits for certain time
+dependant Hamiltonian systems on the cotangent bundle of an arbitrary compact
+manifold $M$. These Hamiltonians are not necessarily convex but they satisfy a
+certain boundary condition given by a Riemannian metric on $M$. We discretize
+the variational problem by decomposing the time 1 map into a product of
+``symplectic twist maps''. A second theorem deals with homotopically non
+trivial orbits in manifolds of negative curvature.
+","[{""version"":""v1"",""created"":""Mon, 11 Nov 1991 00:00:00 GMT""}]","2008-02-03"

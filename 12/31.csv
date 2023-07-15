@@ -1,0 +1,14 @@
+"hep-th/9112075",,"V.Spiridonov","Exactly Solvable Potentials and Quantum Algebras","8 pages, LATEX. Essentially improved version","Phys.Rev.Lett.69:398-401,1992","10.1103/PhysRevLett.69.398","UdeM-LPN-TH75","hep-th",,"  A set of exactly solvable one-dimensional quantum mechanical potentials is
+described. It is defined by a finite-difference-differential equation
+generating in the limiting cases the Rosen-Morse, harmonic, and P\""oschl-Teller
+potentials. General solution includes Shabat's infinite number soliton system
+and leads to raising and lowering operators satisfying $q$-deformed harmonic
+oscillator algebra. In the latter case energy spectrum is purely exponential
+and physical states form a reducible representation of the quantum conformal
+algebra $su_q(1,1)$.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1991 21:30:15 GMT""},{""version"":""v2"",""created"":""Fri, 24 Jul 1992 18:36:14 GMT""}]","2009-01-23"
+"math/9201236",,"Richard Haydon, Edward Odell, and Haskell P. Rosenthal","On certain classes of Baire-1 functions with applications to Banach
+  space theory",,,,"Banach Archive 1991","math.FA",,"  Certain subclasses of $B_1(K)$, the Baire-1 functions on a compact metric
+space $K$, are defined and characterized. Some applications to Banach spaces
+are given.
+","[{""version"":""v1"",""created"":""Tue, 31 Dec 1991 00:00:00 GMT""}]","2009-09-25"

@@ -1,0 +1,40 @@
+"hep-th/9110074",,"Haye Hinrichsen and Vladimir Rittenberg","A Two Parameter Deformation of the SU(1/1) Superalgebra and the XY
+  Quantum Chain in a Magnetic Field","7","Phys.Lett. B275 (1992) 350-354","10.1016/0370-2693(92)91601-5",,"hep-th",,"  We show that the XY quantum chain in a magnetic field is invariant under a
+two parameter deformation of the SU(1/1) superalgebra. One is led to an
+extension of the braid group and the Hecke algebra which reduce to the known
+ones when the two parameter coincide. The physical significance of the two
+parameters is discussed.
+","[{""version"":""v1"",""created"":""Wed, 30 Oct 1991 19:32:41 GMT""}]","2009-10-22"
+"hep-th/9110075","Andrew Parkes","Andrew Parkes","On N=2 strings and classical scattering solutions of self-dual
+  Yang-Mills in (2,2) spacetime","20 pages","Nucl.Phys. B376 (1992) 279-296","10.1016/0550-3213(92)90126-V",,"hep-th",,"  Ooguri and Vafa have shown that the open N=2 string corresponds to self-dual
+Yang-Mills (SDYM) and also that, in perturbation theory, it has has a vanishing
+four particle scattering amplitude. We discuss how the dynamics of the three
+particle scattering implies that on shell states can only scatter if their
+momenta lie in the same self-dual plane and then investigate classical SDYM
+with the aim of comparing exact solutions with the tree level perturbation
+theory predictions. In particular for the gauge group SL(2,C) with a plane wave
+Hirota ansatz SDYM reduces to a complicated set of algebraic relations due to
+de Vega. Here we solve these conditions and the solutions are shown to
+correspond to collisions of plane wave kinks. The main result is that for a
+class of kinks the resulting phase shifts are non-zero, the solution as a whole
+is not pure gauge and so the scattering seems non-trivial. However the stress
+energy and Lagrangian density are confined to string like regions in the space
+time and in particular are zero for the incoming/outgoing kinks so the solution
+does not correspond to physical four point scattering.
+","[{""version"":""v1"",""created"":""Wed, 30 Oct 1991 22:25:00 GMT""}]","2009-10-22"
+"hep-th/9110076",,"Krzysztof Gawedzki","Non-Compact WZW Conformal Field Theories",,,,,"hep-th",,"  We discuss non-compact WZW sigma models, especially the ones with symmetric
+space $H^{\bf C}/H$ as the target, for $H$ a compact Lie group. They offer
+examples of non-rational conformal field theories. We remind their relation to
+the compact WZW models but stress their distinctive features like the
+continuous spectrum of conformal weights, diverging partition functions and the
+presence of two types of operators analogous to the local and non-local
+insertions recently discussed in the Liouville theory. Gauging non-compact
+abelian subgroups of $H^{\bf C}$ leads to non-rational coset theories. In
+particular, gauging one-parameter boosts in the $SL(2,\bC)/SU(2)$ model gives
+an alternative, explicitly stable construction of a conformal sigma model with
+the euclidean 2D black hole target. We compute the (regularized) toroidal
+partition function and discuss the spectrum of the theory. A comparison is made
+with more standard approach based on the $U(1)$ coset of the $SU(1,1)$ WZW
+theory where stability is not evident but where unitarity becomes more
+transparent.
+","[{""version"":""v1"",""created"":""Thu, 31 Oct 1991 09:05:52 GMT""}]","2007-05-23"

@@ -1,0 +1,23 @@
+"hep-th/9111061","Changhyun Ahn","Changhyun Ahn","c=5/2 Free Fermion Model of WB_{2} Algebra","16 pages","Int.J.Mod.Phys. A7 (1992) 6799-6812","10.1142/S0217751X92003112",,"hep-th",,"  We investigate the explicit construction of the $WB_{2}$ algebra, which is
+closed and associative for all values of the central charge $c$, using the
+Jacobi identity and show the agreement with the results studied previously.
+Then we illustrate a realization of $c=\frac{5}{2}$ free fermion model, which
+is $m \rightarrow \infty$ limit of unitary minimal series, $c ( WB_{2}
+)=\frac{5}{2} (1-\frac{12}{ (m+3)(m+4) })$ based on the cosets $( \hat{B_{2}}
+\oplus \hat{B_{2}}, \hat{B_{2} })$ at level $(1,m).$ We confirm by explicit
+computations that the bosonic currents in the $ WB_{2}$ algebra are indeed
+given by the Casimir operators of $\hat{B_{2}}$ .
+","[{""version"":""v1"",""created"":""Thu, 28 Nov 1991 18:41:36 GMT""}]","2015-06-26"
+"hep-th/9111062","""G. M. T."" Watts","P. Bowcock and G Watts","On the classification of quantum W-algebras","28 pages","Nucl.Phys. B379 (1992) 63-95","10.1016/0550-3213(92)90590-8",,"hep-th",,"  In this paper we consider the structure of general quantum W-algebras. We
+introduce the notions of deformability, positive-definiteness, and reductivity
+of a W-algebra. We show that one can associate a reductive finite Lie algebra
+to each reductive W-algebra. The finite Lie algebra is also endowed with a
+preferred $sl(2)$ subalgebra, which gives the conformal weights of the
+W-algebra. We extend this to cover W-algebras containing both bosonic and
+fermionic fields, and illustrate our ideas with the Poisson bracket algebras of
+generalised Drinfeld-Sokolov Hamiltonian systems. We then discuss the
+possibilities of classifying deformable W-algebras which fall outside this
+class in the context of automorphisms of Lie algebras. In conclusion we list
+the cases in which the W-algebra has no weight one fields, and further, those
+in which it has only one weight two field.
+","[{""version"":""v1"",""created"":""Thu, 28 Nov 1991 17:11:53 GMT""}]","2009-10-22"

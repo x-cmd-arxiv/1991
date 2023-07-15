@@ -1,0 +1,8 @@
+"math/9201281","Yunping Jiang","Yunping Jiang, Takehiko Morita, Dennis Sullivan","Expanding direction of the period doubling operator",,,"10.1007/BF02099180","Stony Brook IMS 1991/6","math.DS",,"  We prove that the period doubling operator has an expanding direction at the
+fixed point. We use the induced operator, a ``Perron-Frobenius type operator'',
+to study the linearization of the period doubling operator at its fixed point.
+We then use a sequence of linear operators with finite ranks to study this
+induced operator. The proof is constructive. One can calculate the expanding
+direction and the rate of expansion of the period doubling operator at the
+fixed point.
+","[{""version"":""v1"",""created"":""Thu, 28 Mar 1991 00:00:00 GMT""}]","2016-09-06"

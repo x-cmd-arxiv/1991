@@ -1,0 +1,39 @@
+"hep-th/9112011",,"S. Kalara, J. Lopez, and D. Nanopoulos","Modular invariance and nonrenormalizable interactions","13 pages","Phys.Lett. B287 (1992) 82-88","10.1016/0370-2693(92)91880-I",,"hep-th",,"  We examine the modular properties of nonrenormalizable superpotential terms
+in string theory and show that the requirement of modular invariance
+necessitates the nonvanishing of certain Nth order nonrenormalizable terms. In
+a class of models (free fermionic formulation) we explicitly verify that the
+nontrivial structure imposed by the modular invariance is indeed present.
+Alternatively, we argue that after proper field redefinition, nonrenormalizable
+terms can be recast as to display their invariance under the modular group. We
+also discuss the phenomenological implications of the above observations.
+","[{""version"":""v1"",""created"":""Thu, 5 Dec 1991 18:44:00 GMT""}]","2009-10-22"
+"hep-th/9112012","Matthias Blau","Matthias Blau and George Thompson","N=2 topological gauge theory, the Euler characteristic of moduli spaces,
+  and the Casson invariant","50 p. (with a4.sty: 40 p.)","Commun.Math.Phys. 152 (1993) 41-72","10.1007/BF02097057",,"hep-th",,"  We discuss gauge theory with a topological N=2 symmetry. This theory captures
+the de Rham complex and Riemannian geometry of some underlying moduli space
+$\cal M$ and the partition function equals the Euler number of $\cal M$. We
+explicitly deal with moduli spaces of instantons and of flat connections in two
+and three dimensions.
+  To motivate our constructions we explain the relation between the
+Mathai-Quillen formalism and supersymmetric quantum mechanics and introduce a
+new kind of supersymmetric quantum mechanics based on the Gauss-Codazzi
+equations. We interpret the gauge theory actions from the Atiyah-Jeffrey point
+of view and relate them to supersymmetric quantum mechanics on spaces of
+connections. As a consequence of these considerations we propose the Euler
+number of the moduli space of flat connections as a generalization to arbitrary
+three-manifolds of the Casson invariant. We also comment on the possibility of
+constructing a topological version of the Penner matrix model.
+","[{""version"":""v1"",""created"":""Thu, 5 Dec 1991 23:32:14 GMT""}]","2016-03-23"
+"hep-th/9112016","Theor. department Fian","A.M.Semikhatov","Virasoro Action and Virasoro Constraints on Integrable Hierarchies of
+  the $r$-Matrix Type","24 pages",,,,"hep-th",,"  For a large class of hierarchies of integrable equations admitting a
+classical $r-$matrix, we propose a construction for the Virasoro algebra
+actionon the Lax operators which commutes with the hierarchy flows. The
+construction relies on the existence of dressing transformations associated to
+the $r$-matrix and does not involve the notion of a tau function. The
+dressing-operator form of the Virasoro action gives the corresponding
+formulation of the Virasoro constraints on hierarchies of the $r-$matrix type.
+We apply the general construction to several examples which include KP, Toda
+and generalized KdV hierarchies, the latter both in scalar and the
+Drinfeld-Sokolov formalisms. We prove the consistency of Virasoro action on the
+scalar and matrix (Drinfeld-Sokolov) Lax operators, and make an observation on
+the difference in the form of string equations in the two formalisms.
+","[{""version"":""v1"",""created"":""Fri, 6 Dec 1991 14:05:30 GMT""}]","2007-05-23"

@@ -1,0 +1,27 @@
+"hep-th/9110071","N. Ishibashi","Nobuyuki Ishibashi","Extra Observables in Gauged WZW Models","19 pages","Nucl.Phys. B379 (1992) 199-219","10.1016/0550-3213(92)90595-3",,"hep-th",,"  It is known that Liouville theory can be represented as an SL(2,R) gauged WZW
+model. We study a two dimensional field theory which can be obtained by
+analytically continuing some of the variables in the SL(2,R) gauged WZW model.
+We can derive Liouville theory from the analytically continued model, ( which
+is a gauged SL(2,C)/SU(2) model, ) in a similar but more rigorous way than from
+the original gauged WZW model. We investigate the observables of this gauged
+SL(2,C)/SU(2) model. We find infinitely many extra observables which can not be
+identified with operators in Liouville theory. We concentrate on observables
+which are $(1,1)$ forms and the correlators of their integrals over two
+dimensional spacetime. At a special value of the coupling constant of our
+model, the correlators of these integrals on the sphere coincide with the
+results from matrix models.
+","[{""version"":""v1"",""created"":""Wed, 30 Oct 1991 00:37:07 GMT""}]","2009-10-22"
+"hep-th/9110072",,"A.P.Balachandran, G. Bimonte, K.S.Gupta and A. Stern","Conformal Edge Currents in Chern-Simons Theories",,"Int.J.Mod.Phys. A7 (1992) 4655-4670","10.1142/S0217751X92002106",,"hep-th",,"  We develop elementary canonical methods for the quantization of abelian and
+nonabelian Chern-Simons actions using well known ideas in gauge theories and
+quantum gravity. Our approach does not involve choice of gauge or clever
+manipulations of functional integrals. When the spatial slice is a disc, it
+yields Witten's edge states carrying a representation of the Kac-Moody algebra.
+The canonical expression for the generators of diffeomorphisms on the boundary
+of the disc are also found, and it is established that they are the
+Chern-Simons version of the Sugawara construction. This paper is a prelude to
+our future publications on edge states, sources, vertex operators, and their
+spin and statistics in 3D and 4D topological field theories.
+","[{""version"":""v1"",""created"":""Wed, 30 Oct 1991 02:38:00 GMT""}]","2015-06-26"
+"hep-th/9110073","J. Goeree","Jan de Boer and Jacob Goeree","The Covariant W_3 Action","14 pages","Phys. Lett. B274 (1992) 289-297","10.1016/0370-2693(92)91988-L",,"hep-th",,"  Starting from SL(3,R) Chern-Simons theory we derive the covariant action for
+W_3 gravity.
+","[{""version"":""v1"",""created"":""Wed, 30 Oct 1991 15:23:53 GMT""}]","2009-10-22"

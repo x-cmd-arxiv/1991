@@ -1,0 +1,44 @@
+"hep-th/9112018","Ayrton Zadra","L. Alvarez-Gaume, H. Itoyama, J.L. Manes and A. Zadra","Superloop Equations and Two Dimensional Supergravity","34 pages","Int.J.Mod.Phys. A7 (1992) 5337-5368","10.1142/S0217751X92002441",,"hep-th",,"  We propose a discrete model whose continuum limit reproduces the string
+susceptibility and the scaling dimensions of $(2,4m)$-minimal superconformal
+models coupled to $2D$-supergravity. The basic assumption in our presentation
+is a set of super-Virasoro constraints imposed on the partition function. We
+recover the Neveu-Schwarz and Ramond sectors of the theory, and we are also
+able to evaluate all planar loop correlation functions in the continuum limit.
+We find evidence to identify the integrable hierarchy of non-linear equations
+describing the double scaling limit as a supersymmetric generalization of KP
+studied by Rabin.
+","[{""version"":""v1"",""created"":""Mon, 9 Dec 1991 17:18:03 GMT""}]","2015-06-26"
+"hep-th/9112019",,"Emil Martinec","An Introduction to 2d Gravity and Solvable String Models","29pp. Lectures at the 1991 Trieste Spring School",,,,"hep-th",,"  Continuum and discrete approaches to 2d gravity coupled to $c<1$ matter are
+reviewed.
+","[{""version"":""v1"",""created"":""Mon, 9 Dec 1991 20:40:40 GMT""}]","2008-02-06"
+"hep-th/9112020","Roman Jackiw","Roman Jackiw, Dan Kabat, Miguel Ortiz","Electromagnetic fields of a massless particle and the eikonal","The missing overdot -- signifying the $\tau$ differentiation
+  $\nabla^2 {\dot \Omega}^{+ -} and {\dot k}^{+-}$ in eqs. (23) and (24) -- is
+  inserted. Also, obsolete macro has been fixed. Plain TeX, 13 pages","Phys.Lett.B277:148-152,1992","10.1016/0370-2693(92)90971-6",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Electromagnetic fields of a massless charged particle are described by a
+gauge potential that is almost everywhere pure gauge. Solution of quantum
+mechanical wave equations in the presence of such fields is therefore immediate
+and leads to a new derivation of the quantum electrodynamical eikonal
+approximation. The elctromagnetic action in the eikonal limit is localised on a
+contour in a two-dimensional Minkowski subspace of four-dimensional space-time.
+The exact S-matrix of this reduced theory coincides with the eikonal
+approximation, and represents the generalisatin to electrodynamics of the
+approach of 't Hooft and the Verlinde's to Planckian scattering.
+","[{""version"":""v1"",""created"":""Mon, 9 Dec 1991 22:45:00 GMT""},{""version"":""v2"",""created"":""Tue, 19 Apr 2016 15:20:15 GMT""}]","2016-04-20"
+"hep-th/9112021","Kitazawa","Yoshihisa Kitazawa","Puncture Operator in c=1 Liouville Gravity","12 pages",,,,"hep-th",,"  We identify the puncture operator in c=1 Liouville gravity as the discrete
+state with spin J=1/2. The correlation functions involving this operator
+satisfy the recursion relation which is characteristic in topological gravity.
+We derive the recursion relation involving the puncture operator by the
+operator product expansion. Multiple point correlation functions are determined
+recursively from fewer point functions by this recursion relation.
+","[{""version"":""v1"",""created"":""Tue, 10 Dec 1991 13:42:00 GMT""}]","2007-05-23"
+"hep-th/9112022","Daniel Arnaudon","Daniel Arnaudon","New fusion rules and $\cR$-matrices for $SL(N)_q$ at roots of unity","12 pages","Phys.Lett. B280 (1992) 31-38","10.1016/0370-2693(92)90768-Y",,"hep-th math.QA",,"  We derive fusion rules for the composition of $q$-deformed classical
+representations (arising in tensor products of the fundamental representation)
+with semi-periodic representations of $SL(N)_q$ at roots of unity. We obtain
+full reducibility into semi-periodic representations. On the other hand,
+heterogeneous $\cR$-matrices which intertwine tensor products of periodic or
+semi-periodic representations with $q$-deformed classical representations are
+given. These $\cR$-matrices satisfy all the possible Yang Baxter equations with
+one another and, when they exist, with the $\cR$-matrices intertwining
+homogeneous tensor products of periodic or semi-periodic representations. This
+compatibility between these two kinds of representations has never been used in
+physical models.
+","[{""version"":""v1"",""created"":""Tue, 10 Dec 1991 14:06:48 GMT""},{""version"":""v2"",""created"":""Tue, 11 Feb 1992 14:50:19 GMT""}]","2009-10-22"

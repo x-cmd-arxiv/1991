@@ -1,0 +1,38 @@
+"hep-th/9109050",,"L. Alvarez-Gaume, Ph. Zaugg","Structure constants in the N=1 superoperator algebra","68 pages","Annals Phys. 215 (1992) 171-230","10.1016/0003-4916(92)90303-4",,"hep-th",,"  Using the Coulomb Gas formulation of N=1 Superconformal Field Theories, we
+extend the arguments of Dotsenko and Fateev for the bosonic case to evaluate
+the structure constants of N=1 minimal Superconformal Algebras in the
+Neveu-Schwarz sector.
+","[{""version"":""v1"",""created"":""Wed, 25 Sep 1991 22:51:49 GMT""}]","2015-06-26"
+"hep-th/9109051","Cliff Burgess","C.P. Burgess and A.L. Marini","The Damping of Energetic Gluons and Quarks in High-Temperature QCD","9 pages","Phys.Rev.D45:17-20,1992","10.1103/PhysRevD.45.17",,"hep-th",,"  When a gluon or a quark is sent through the hot QCD plasma it can be absorbed
+into the ambient heat bath and so can acquire an effective lifetime. At high
+temperatures and for weak couplings the inverse lifetime, or damping rate, for
+energetic quarks and transverse gluons, (those whose momenta satisfy $|\p| \gg
+gT$) is given by $\gamma(\p) = c\; g^2 \log\left({1\over g}\right)\; T +
+O(g^2T)$. We show that very simple arguments suffice both to fix the numerical
+coefficient, $c$, in this expression and to show that the $O(g^2T)$
+contribution is incalculable in perturbation theory without further
+assumptions. For QCD with $N_c$ colours we find (expressed in terms of the
+casimir invariants $C_a=N_c$ and $C_f=(N_c^2-1)/(2N_c)$): $c_g=+{C_a\over
+4\pi}$ for gluons and $c_q=+{C_f\over 4\pi}$ for quarks. These numbers agree
+with the more detailed calculations of Pisarski \etal\ but disagree with those
+of Lebedev and Smilga. The simplicity of the calculation also permits a direct
+verification of the gauge-invariance and physical sign of the result.
+","[{""version"":""v1"",""created"":""Thu, 26 Sep 1991 15:08:39 GMT""}]","2009-12-30"
+"math/9201293","Scott Sutherland","Ben Bielefeld, Scott Sutherland, Folkert Tangerman, J. J. P. Veerman","Dynamics of certain non-conformal degree two maps on the plane",,"Experimental Math, vol 2 issue 4 (1993), 281-300",,"Stony Brook IMS 1991/18","math.DS",,"  In this paper we consider maps on the plane which are similar to quadratic
+maps in that they are degree 2 branched covers of the plane. In fact, consider
+for $\alpha$ fixed, maps $f_c$ which have the following form (in polar
+coordinates):
+  $$f_c(r\,e^{i\theta})\;=\;r^{2\alpha}\,e^{2i\theta}\,+\,c$$
+  When $\alpha=1$, these maps are quadratic ($z \maps z^2 + c$), and their
+dynamics and bifurcation theory are to some degree understood. When $\alpha$ is
+different from one, the dynamics is no longer conformal. In particular, the
+dynamics is not completely determined by the orbit of the critical point.
+Nevertheless, for many values of the parameter c, the dynamics has strong
+similarities to that of the quadratic family. For other parameter values the
+dynamics is dominated by 2 dimensional behavior: saddles and the like.
+  The objects of study are Julia sets, filled-in Julia sets and the
+connectedness locus. These are defined in analogy to the conformal case. The
+main drive in this study is to see to what extent the results in the conformal
+case generalize to that of maps which are topologically like quadratic maps
+(and when $\alpha$ is close to one, close to being quadratic).
+","[{""version"":""v1"",""created"":""Thu, 26 Sep 1991 00:00:00 GMT""}]","2011-07-26"

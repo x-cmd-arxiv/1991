@@ -1,0 +1,17 @@
+"hep-th/9112068",,"L. Feher, L. O'raifeartaigh, P. Ruelle, I. Tsutsui and A. Wipf","On the General Structure of Hamiltonian Reductions of the Wznw Theory","90 pages",,,,"hep-th",,"  The structure of Hamiltonian reductions of the Wess-Zumino-Novikov-Witten
+(WZNW) theory by first class Kac-Moody constraints is analyzed in detail. Lie
+algebraic conditions are given for ensuring the presence of exact
+integrability, conformal invariance and $\cal W$-symmetry in the reduced
+theories. A Lagrangean, gauged WZNW implementation of the reduction is
+established in the general case and thereby the path integral as well as the
+BRST formalism are set up for studying the quantum version of the reduction.
+The general results are applied to a number of examples. In particular, a
+${\cal W}$-algebra is associated to each embedding of $sl(2)$ into the simple
+Lie algebras by using purely first class constraints. The importance of these
+$sl(2)$ systems is demonstrated by showing that they underlie the
+$W_n^l$-algebras as well. New generalized Toda theories are found whose chiral
+algebras are the ${\cal W}$-algebras belonging to the half-integral $sl(2)$
+embeddings, and the ${\cal W}$-symmetry of the effective action of those
+generalized Toda theories associated with the integral gradings is exhibited
+explicitly.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 1991 19:27:21 GMT""}]","2007-05-23"

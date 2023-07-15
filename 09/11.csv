@@ -1,0 +1,55 @@
+"hep-th/9109011",,"M.Caselle, R.Fiore, F.Gliozzi, P.Provero and S.Vinti","Critical Boundary Conditions for the Effective String","9 pages + 1 figure","Phys. Lett. B272 (1991) 272-276","10.1016/0370-2693(91)91830-O",,"hep-th",,"  Gauge systems in the confining phase induce constraints at the boundaries of
+the effective string, which rule out the ordinary bosonic string even with
+short distance modifications. Allowing topological excitations, corresponding
+to winding around the colour flux tube, produces at the quantum level a
+universal free fermion string with a boundary phase nu=1/4. This coincides with
+a model proposed some time ago in order to fit Monte Carlo data of 3D and 4D
+Lattice gauge systems better. A universal value of the thickness of the colour
+flux tube is predicted.
+","[{""version"":""v1"",""created"":""Tue, 10 Sep 1991 15:01:00 GMT""}]","2019-08-17"
+"hep-th/9109012",,"D. Minic and Z. Yang","Is S=1 for c=1?","11 pages","Phys.Lett. B274 (1992) 27-33","10.1016/0370-2693(92)90299-J",,"hep-th",,"  The $c=1$ string in the Liouville field theory approach is shown to possess a
+nontrivial tree-level $S$-matrix which satisfies factorization property implied
+by unitary, if all the extra massive physical states are included.
+","[{""version"":""v1"",""created"":""Tue, 10 Sep 1991 16:31:00 GMT""}]","2009-10-22"
+"hep-th/9109013","Dimitra Karabali","Dimitra Karabali","Collective Field Representation of Nonrelativistic Fermions in (1+1)
+  Dimensions","13 pages. Talk presented at the XXth International Conference on
+  Differential Geometric Methods in Theoretical Physics at Baruch College,CUNY,
+  May 1991",,,,"hep-th",,"  A collective field formalism for nonrelativistic fermions in (1+1) dimensions
+is presented. Applications to the D=1 hermitian matrix model and the system of
+one-dimensional fermions in the presence of a weak electromagnetic field are
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 10 Sep 1991 18:19:25 GMT""}]","2007-05-23"
+"hep-th/9109014","Tim Hollowood","Nigel J. Burroughs, Mark F. deGroot, Timothy J. Hollowood and J. Luis
+  Miramontes","Generalized Drinfeld-Sokolov Hierarchies II: The Hamiltonian Structures","41 pages","Commun.Math.Phys. 153 (1993) 187-215","10.1007/BF02099045",,"hep-th",,"  In this paper we examine the bi-Hamiltonian structure of the generalized
+KdV-hierarchies. We verify that both Hamiltonian structures take the form of
+Kirillov brackets on the Kac-Moody algebra, and that they define a coordinated
+system. Classical extended conformal algebras are obtained from the second
+Poisson bracket. In particular, we construct the $W_n^l$ algebras, first
+discussed for the case $n=3$ and $l=2$ by A. Polyakov and M. Bershadsky.
+","[{""version"":""v1"",""created"":""Tue, 10 Sep 1991 19:48:36 GMT""}]","2015-06-26"
+"hep-th/9109015","My Account","A.Schwarz","On the solutions to the string equation","15 pp (revised version)","Mod.Phys.Lett. A6 (1991) 2713-2726","10.1142/S0217732391003171",,"hep-th",,"  The set of solutions to the string equation $[P,Q]=1$ where $P$ and $Q$ are
+differential operators is described.It is shown that there exists one-to-one
+correspondence between this set and the set of pairs of commuting differential
+operators.This fact permits us to describe the set of solutions to the string
+equation in terms of moduli spa- ces of algebraic curves,however the direct
+description is much simpler. Some results are obtained for the superanalog to
+the string equation where $P$ and $Q$ are considered as superdifferential
+operators. It is proved that this equation is invariant with respect to
+Manin-Radul, Mulase-Rabin and Kac-van de Leur KP-hierarchies.
+","[{""version"":""v1"",""created"":""Tue, 10 Sep 1991 20:33:03 GMT""}]","2009-10-22"
+"hep-th/9109016","Mazzitelli Diego F.","F.D. Mazzitelli and N. Mohammedi","Classical Gravity Coupled to Liouville Theory","24 pages (important changes)","Nucl.Phys. B401 (1993) 239-256","10.1016/0550-3213(93)90304-8","IC/91/238 Revised Version","hep-th",,"  We consider the two dimensional Jackiw-Teitelboim model of gravity. We first
+couple the model to the Liouville action and $c$ scalar fields and show,
+treating the combined system as a non linear sigma model, that the resulting
+theory can be interpreted as a critical string moving in a target space of
+dimension $D=c+2$. We then analyse perturbatively a generalised model
+containing a kinetic term and an arbitrary potential for the auxiliary field.
+We use the background field method and work with covariant gauges. We show that
+the renormalisability of the theory depends on the form of the potential. For a
+general potential, the theory can be renormalised as a non linear sigma model.
+In the particular case of a Liouville-like potential, the theory is
+renormalisable in the usual sense.
+","[{""version"":""v1"",""created"":""Wed, 11 Sep 1991 13:42:09 GMT""},{""version"":""v2"",""created"":""Tue, 4 Aug 1992 11:23:35 GMT""}]","2009-10-22"
+"hep-th/9109017","Nir Sochen","M. Bauer and N. Sochen","Singular vectors by Fusions in affine su(2)","7 pages","Phys.Lett. B275 (1992) 82-86","10.1016/0370-2693(92)90854-W",,"hep-th",,"  Explicit expressions for the singular vectors in the highest weight
+representations of $A_1^{(1)}$ are obtained using the fusion formalism of
+conformal field theory.
+","[{""version"":""v1"",""created"":""Wed, 11 Sep 1991 14:19:25 GMT""}]","2009-10-22"

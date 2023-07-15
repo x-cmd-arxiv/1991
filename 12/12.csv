@@ -1,0 +1,30 @@
+"hep-th/9112025","Ergin Sezgin","E. Sezgin","Aspects of W_\INFTY Symmetry","(24 pages)",,,,"hep-th",,"  We review the structure of W_\infty algebras, their super and topological
+extensions, and their contractions down to (super) w_\infty. Emphasis is put on
+the field theoretic realisations of these algebras. We also review the
+structure of w_\infty and W_\infty gravities and comment on various
+applications of W_\infty symmetry.
+","[{""version"":""v1"",""created"":""Wed, 11 Dec 1991 16:01:40 GMT""}]","2007-05-23"
+"hep-th/9112027",,"B. de Wit and A. Van Proeyen","Special geometry, cubic polynomials and homogeneous quaternionic spaces","29 pp","Commun.Math.Phys. 149 (1992) 307-334","10.1007/BF02097627",,"hep-th",,"  The existing classification of homogeneous quaternionic spaces is not
+complete. We study these spaces in the context of certain $N=2$ supergravity
+theories, where dimensional reduction induces a mapping between {\em special}
+real, K\""ahler and quaternionic spaces. The geometry of the real spaces is
+encoded in cubic polynomials, those of the K\""ahler and quaternionic manifolds
+in homogeneous holomorphic functions of second degree. We classify all cubic
+polynomials that have an invariance group that acts transitively on the real
+manifold. The corresponding K\""ahler and quaternionic manifolds are then
+homogeneous. We find that they lead to a well-defined subset of the normal
+quaternionic spaces classified by \Al\ (and the corresponding special K\""ahler
+spaces given by Cecotti), but there is a new class of rank-3 spaces of
+quaternionic dimension larger than 3. We also point out that some of the rank-4
+\Al\ spaces were not fully specified and correspond to a finite variety of
+inequivalent spaces. A simpler version of the equation that underlies the
+classification of this paper also emerges in the context of $W_3$ algebras.
+","[{""version"":""v1"",""created"":""Thu, 12 Dec 1991 11:28:19 GMT""},{""version"":""v2"",""created"":""Fri, 13 Dec 1991 18:13:41 GMT""}]","2009-10-22"
+"hep-th/9112028",,"E. Bergshoeff and M. de Roo","N=2\ $W$-supergravity","44 pages","Int.J.Mod.Phys. A8 (1993) 237-276","10.1016/0370-2693(92)90713-E",,"hep-th",,"  We quantise the classical gauge theory of $N=2\ w_\infty$-supergravity and
+show how the underlying $N=2$ super-$w_\infty$ algebra gets deformed into an
+$N=2$ super-$W_\infty$ algebra. Both algebras contain the $N=2$ super-Virasoro
+algebra as a subalgebra. We discuss how one can extract from these results
+information about quantum $N=2\ W_N$-supergravity theories containing a finite
+number of higher-spin symmetries with superspin $s\le N$. As an example we
+discuss the case of quantum $N=2\ W_3$-supergravity.
+","[{""version"":""v1"",""created"":""Thu, 12 Dec 1991 14:00:00 GMT""}]","2009-10-22"

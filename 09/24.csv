@@ -1,0 +1,33 @@
+"hep-th/9109042","Phillippe di Francesco","P. Di Francesco and P. Mathieu","Singular Vectors and Conservation Laws of Quantum KdV type equations","9 pages","Phys. Lett. B278 (1992) 79","10.1016/0370-2693(92)90714-F",,"hep-th",,"  We give a direct proof of the relation between vacuum singular vectors and
+conservation laws for the quantum KdV equation or equivalently for
+$\Phi_{(1,3)}$-perturbed conformal field theories. For each degree at which a
+classical conservation law exists, we find a quantum conserved quantity for a
+specific value of the central charge. Various generalizations ($N=1,2$
+supersymmetric, Boussinesq) of this result are presented.
+","[{""version"":""v1"",""created"":""Tue, 24 Sep 1991 14:59:44 GMT""}]","2009-10-22"
+"hep-th/9109043",,"M. Cvetic","Implications of Target Space Duality","21 pages (Invited talk presented at PASCOS '91, March 25-30, 1991,
+  Northeastern University, Boston, MA.)",,,,"hep-th",,"  Based on the assumption that the target space duality ($T\to 1/T$) is
+preserved even nonperturbatively, the properties of static string vacua are
+studied. A discussion of the effective four-dimensional supergravity action
+based on target-space modular symmetry $SL(2,{\bf Z})$ is presented. The
+nonperturbative superpotential removes the vacuum degeneracy with respect to
+the compactification modulus ($T$) generically breaks supersymmetry with
+negative cosmological constant. Charged matter fields get negative $(mass)^2$
+signalling an additional instability of string vacuum and the blowing up of
+orbifold singularities. In addition for a class of modularly invariant
+potentials topologically stable stringy domain walls of nontrivial compaction
+modulus field configuration are found. They are supersymmetric solutions, thus
+saturating the Bogomolnyi bound. Their physical implications are discussed.
+","[{""version"":""v1"",""created"":""Tue, 24 Sep 1991 00:00:00 GMT""},{""version"":""v2"",""created"":""Wed, 25 Sep 1991 00:00:00 GMT""}]","2008-02-03"
+"hep-th/9109044",,"M. Cvetic","Topological Defects in the Moduli Sector of String Theory","7 pages (Talk presented at Strings '91 Workshop, May 20-25, 1991,
+  Stony Brook, NY.)",,,,"hep-th",,"  We point out that the moduli sector of the $(2,2)$ string compactification
+with its nonperturbatively preserved non-compact symmetries is a fertile
+framework to study global topological defects, thus providing a natural source
+for the large scale structure formation. Based on the target space modular
+invariance of the nonperturbative superpotential of the four-dimensional N=1
+supersymmetric string vacua, topologically stable stringy domain walls are
+found. They are supersymmetric solutions, thus saturating the Bogomolnyi bound.
+It is also shown that there are moduli sectors that allow for the global
+monopole-type and texture-type configurations whose radial stability is ensured
+by higher derivative terms.
+","[{""version"":""v1"",""created"":""Tue, 24 Sep 1991 00:00:00 GMT""},{""version"":""v2"",""created"":""Wed, 25 Sep 1991 00:00:00 GMT""}]","2008-02-03"

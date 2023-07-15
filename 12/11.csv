@@ -1,0 +1,48 @@
+"hep-th/9112023",,"M.J. Duff, R.R. Khuri and J.X. Lu","String and Fivebrane Solitons: Singular or Non-singular?","15 pages","Nucl.Phys. B377 (1992) 281-294","10.1016/0550-3213(92)90025-7",,"hep-th",,"  We ask whether the recently discovered superstring and superfivebrane
+solutions of D=10 supergravity admit the interpretation of non-singular
+solitons even though, in the absence of Yang-Mills fields, they exhibit
+curvature singularities at the origin. We answer the question using a test
+probe/source approach, and find that the nature of the singularity is
+probe-dependent. If the test probe and source are both superstrings or both
+superfivebranes, one falls into the other in a finite proper time and the
+singularity is real, whereas if one is a superstring and the other a
+superfivebrane it takes an infinite proper time (the force is repulsive!) and
+the singularity is harmless. Black strings and fivebranes, on the other hand,
+always display real singularities.
+","[{""version"":""v1"",""created"":""Tue, 10 Dec 1991 22:30:53 GMT""}]","2009-10-22"
+"hep-th/9112024","Michael Olshanetsky","Eugene Wong (University of Pennsylvania)","Recursion relations in semirigid topological gravity","30pp","Int.J.Mod.Phys. A7 (1992) 6773-6798","10.1142/S0217751X92003100",,"hep-th",,"  A field theoretical realization of topological gravity is discussed in the
+semirigid geometry context. In particular, its topological nature is given by
+the relation between deRham cohomology and equivariant BRST cohomology and the
+fact that all but one of the physical operators are BRST-exact. The puncture
+equation and the dilaton equation of pure topological gravity are reproduced,
+following reference \dil.
+","[{""version"":""v1"",""created"":""Tue, 10 Dec 1991 23:22:04 GMT""},{""version"":""v2"",""created"":""Wed, 11 Dec 1991 21:40:19 GMT""}]","2009-10-22"
+"hep-th/9112026",,"Abbas Ali and Alok Kumar","Topological Kac-Moody Algebra and Wakimoto Representation","9 pages",,,,"hep-th",,"  It is shown, using the Wakimoto representation, that the level zero SU(2)
+Kac-Moody conformal field theory is topological and can be obtained by twisting
+an N=2 superconformal theory. Expressions for the associated N=2 superconformal
+generators are written down and the Kac-Moody generators are shown to be BRST
+exact.
+","[{""version"":""v1"",""created"":""Wed, 11 Dec 1991 11:34:00 GMT""}]","2007-05-23"
+"math/9201235","Stephen Montgomery-Smith","Nakhl\'e Asmar and Stephen J. Montgomery-Smith","On the distribution of Sidon series",,"Arkiv Mat. 31, (1993), 13-26",,,"math.FA",,"  Let B denote an arbitrary Banach space, G a compact abelian group with Haar
+measure $\mu$ and dual group $\Gamma$. Let E be a Sidon subset of $\Gamma$ with
+Sidon constant S(E). Let r_n denote the n-th Rademacher function on [0, 1]. We
+show that there is a constant c, depending only on S(E), such that, for all
+$\alpha > 0$: c^{-1}P[| \sum_{n=1}^Na_nr_n| >= c \alpha ] <= \mu[|
+\sum_{n=1}^Na_n\gamma_n| >= \alpha ] <= cP [|\sum_{n=1}^Na_nr_n| >= c^{-1}
+\alpha ]
+","[{""version"":""v1"",""created"":""Tue, 10 Dec 1991 19:15:54 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 04:33:37 GMT""}]","2008-02-03"
+"math/9201299","Linda Keen","Linda Keen, Bernard Maskit, Caroline Series","Geometric finiteness and uniqueness for Kleinian groups with circle
+  packing limit sets",,,,"Stony Brook IMS 1991/23","math.DG math.GT",,"  In this paper, we assume that $G$ is a finitely generated torsion free
+non-elementary Kleinian group with $\Omega(G)$ nonempty. We show that the
+maximal number of elements of $G$ that can be pinched is precisely the maximal
+number of rank 1 parabolic subgroups that any group isomorphic to $G$ may
+contain. A group with this largest number of rank 1 maximal parabolic subgroups
+is called {\it maximally parabolic}. We show such groups exist. We state our
+main theorems concisely here.
+  Theorem I. The limit set of a maximally parabolic group is a circle packing;
+that is, every component of its regular set is a round disc.
+  Theorem II. A maximally parabolic group is geometrically finite.
+  Theorem III. A maximally parabolic pinched function group is determined up to
+conjugacy in $PSL(2,{\bf C})$ by its abstract isomorphism class and its
+parabolic elements.
+","[{""version"":""v1"",""created"":""Wed, 11 Dec 1991 00:00:00 GMT""}]","2016-09-06"

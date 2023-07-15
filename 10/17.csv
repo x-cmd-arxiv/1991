@@ -1,0 +1,40 @@
+"hep-th/9110044","Shin'ichi Nojiri","Shin'ichi Nojiri","(Super-) String in Two Dimensional Black Hole and Target Space Dualities","19pp (Talk at YITP workshop, ``Developments in Strings and Field
+  Theories'', Kyoto, JAPAN)","Prog.Theor.Phys.Suppl.110:9-24,1992","10.1143/PTPS.110.9",,"hep-th",,"  We review the recently proposed string theory in two dimensional black hole
+background. Especially, the structure of the duality in the target space is
+discussed. The duality is analogous to \lq\lq $R \rightarrow 1/R$"" symmetry of
+a compactified boson. We consider the duality in more general target space
+manifolds which have Killing symmetries and we give an explicit formula which
+connects two different manifolds which are dual to each other. Superstring
+theory in two dimensional black hole background is also discussed based on
+supersymmetric $SU(1,1)/U(1)$ gauged Wess-Zumino-Witten model.
+","[{""version"":""v1"",""created"":""Thu, 17 Oct 1991 06:10:00 GMT""},{""version"":""v2"",""created"":""Sun, 20 Oct 1991 08:08:00 GMT""}]","2008-11-26"
+"hep-th/9110046","Curtis Callan","Curtis G. Callan, Jr. and Denise Freed","Phase Diagram of the Dissipative Hofstadter Model","23 pages","Nucl.Phys. B374 (1992) 543-566","10.1016/0550-3213(92)90400-6",,"hep-th",,"  The dissipative quantum mechanics of a charged particle in a uniform magnetic
+field and periodic potential has delocalization critical points which
+correspond to backgrounds for the open string. We study the phase diagram of
+this system (in the magnetic field/dissipation constant plane) and find a
+fractal structure which, in the limit of zero dissipation, matches the fractal
+energy level structure of the pure quantum mechanical version of this problem
+(Hofstadter model).
+","[{""version"":""v1"",""created"":""Wed, 16 Oct 1991 19:15:43 GMT""}]","2019-08-14"
+"hep-th/9110047","Tim Klassen","Timothy R. Klassen and Ezer Melzer","Rg Flows in the $D$-Series of Minimal Cfts","30 pages","Nucl.Phys. B400 (1993) 547-573","10.1016/0550-3213(93)90415-L",,"hep-th",,"  Using results of the thermodynamic Bethe Ansatz approach and conformal
+perturbation theory we argue that the $\phi_{1,3}$-perturbation of a unitary
+minimal $(1+1)$-dimensional conformal field theory (CFT) in the $D$-series of
+modular invariant partition functions induces a renormalization group (RG) flow
+to the next-lower model in the $D$-series. An exception is the first model in
+the series, the 3-state Potts CFT, which under the $\ZZ_2$-even
+$\phi_{1,3}$-perturbation flows to the tricritical Ising CFT, the second model
+in the $A$-series. We present arguments that in the $A$-series flow
+corresponding to this exceptional case, interpolating between the tetracritical
+and the tricritical Ising CFT, the IR fixed point is approached from ``exactly
+the opposite direction''. Our results indicate how (most of) the relevant
+conformal fields evolve from the UV to the IR CFT.
+","[{""version"":""v1"",""created"":""Thu, 17 Oct 1991 04:35:21 GMT""}]","2009-10-22"
+"hep-th/9110048","Psa","Paul S. Aspinwall and David R. Morrison","Topological Field Theory and Rational Curves","20 pages","Commun.Math.Phys. 151 (1993) 245-262","10.1007/BF02096768",,"hep-th",,"  We analyze the superstring propagating on a Calabi-Yau threefold. This theory
+naturally leads to the consideration of Witten's topological non-linear
+sigma-model and the structure of rational curves on the Calabi-Yau manifold. We
+study in detail the case of the world-sheet of the string being mapped to a
+multiple cover of an isolated rational curve and we show that a natural
+compactification of the moduli space of such a multiple cover leads to a
+formula in agreement with a conjecture by Candelas, de la Ossa, Green and
+Parkes.
+","[{""version"":""v1"",""created"":""Thu, 17 Oct 1991 09:58:40 GMT""}]","2015-06-26"

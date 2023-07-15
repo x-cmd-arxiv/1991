@@ -1,0 +1,75 @@
+"hep-th/9111006","Ajit Srivastava","A. P. Balachandran and A.M. Srivastava","Chern-Simons Dynamics and the Quantum Hall Effect","34 pages",,,,"hep-th",,"  Theoretical developments during the past several years have shown that large
+scale properties of the Quantum Hall system can be successfully described by
+effective field theories which use the Chern-Simons interaction. In this
+article, we first recall certain salient features of the Quantum Hall Effect
+and their microscopic explanation. We then review one particular approach to
+their description based on the Chern-Simons Lagrangian and its variants.
+","[{""version"":""v1"",""created"":""Mon, 4 Nov 1991 22:25:00 GMT""}]","2007-05-23"
+"hep-th/9111007",,"Hubert Saleur","Polymers and percolation in two dimensions and twisted N=2 supersymmetry","42 pages (without figures)","Nucl.Phys. B382 (1992) 486-531","10.1016/0550-3213(92)90657-W",,"hep-th",,"  It is shown how twisted N=2 (k=1) provides for the first time a complete
+conformal field theory description of the usual geometrical phase transitions
+in two dimensions, like polymers, percolation or brownian motion. In
+particular, four point functions of operators with half integer Kac labels are
+computed, together with geometrical operator products. In addition to Ramond
+and Neveu Schwartz, a sector with quarter twists has to be introduced. The role
+of fermions and their various sectors is geometrically interpreted, modular
+invariant partition functions are built. The presence of twisted N=2 is traced
+back to the Parisi Sourlas supersymmetry. It is shown that N=2 leads also to
+new non trivial predictions; for instance the fractal dimension of the
+percolation backbone in two dimensions is conjectured to be D=25/16, in good
+agreement with numerical studies.
+","[{""version"":""v1"",""created"":""Mon, 4 Nov 1991 22:20:00 GMT""}]","2009-10-22"
+"hep-th/9111008",,"Hubert Saleur","Geometrical Lattice models for N=2 supersymmetric theories in two
+  dimensions","23 pages (without figures)","Nucl.Phys. B382 (1992) 532-560","10.1016/0550-3213(92)90658-X",,"hep-th",,"  We introduce in this paper two dimensional lattice models whose continuum
+limit belongs to the $N=2$ series. The first kind of model is integrable and
+obtained through a geometrical reformulation, generalizing results known in the
+$k=1$ case, of the $\Gamma_{k}$ vertex models (based on the quantum algebra
+$U_{q}sl(2)$ and representation of spin $j=k/2$). We demonstrate in particular
+that at the $N=2$ point, the free energy of the $\Gamma_{k}$ vertex model can
+be obtained exactly by counting arguments, without any Bethe ansatz
+computation, and we exhibit lattice operators that reproduce the chiral ring.
+The second class of models is more adequately described in the language of
+twisted $N=2$ supersymmetry, and consists of an infinite series of
+multicritical polymer points, which should lead to experimental realizations.
+It turns out that the exponents $\nu=(k+2)/2(k+1)$ for these multicritical
+polymer points coincide with old phenomenological formulas due to the chemist
+Flory. We therefore confirm that these formulas are {\bf exact} in two
+dimensions, and suggest that their unexpected validity is due to non
+renormalization theorems for the $N=2$ underlying theories. We also discuss the
+status of the much discussed theta point for polymers in the light of $N=2$
+renormalization group flows.
+","[{""version"":""v1"",""created"":""Mon, 4 Nov 1991 22:27:00 GMT""}]","2009-10-22"
+"hep-th/9111009",,"Renata Kallosh","Geometry of Scattering at Planckian Energies","8p","Phys. Lett. B275 (1992) 284-288","10.1016/0370-2693(92)91591-V",,"hep-th",,"  We present an alternative derivation and geometrical formulation of Verlinde
+topological field theory, which may describe scattering at center of mass
+energies comparable or larger than the Planck energy. A consistent trunckation
+of 3+1 dimensional Einstein action is performed using the standard geometrical
+objects, like tetrads and spin connections. The resulting topological invariant
+is given in terms of differential forms.
+","[{""version"":""v1"",""created"":""Tue, 5 Nov 1991 01:51:00 GMT""}]","2009-10-22"
+"hep-th/9111010",,"R. Kallosh","D=10 supersymmetric chern-simons gauge theory",,,,,"hep-th",,"  The Chern-Simons ten-dimensional manifestly supersymmetric non-Abelian gauge
+theory is presented by performing the second quantization of the superparticle
+theory. The equation of motion is $F = (d+A)^2 = 0$, where $d$ is the nilpotent
+fermionic BRST operator of the first quantized theory and $A$ is the anti-
+commuting connection for the gauge group. This equation can be derived as a
+condition of the gauge independence of the first quantized theory in a
+background field $A$, or from the string field theory Lagrangian of the Chern-
+Simons type. The trivial solutions of the cohomology are the gauge symmetries,
+the non-trivial solution is given by the D=10 superspace, describing the super
+Yang-Mills theory on shell
+","[{""version"":""v1"",""created"":""Tue, 5 Nov 1991 02:00:00 GMT""}]","2007-05-23"
+"hep-th/9111011","Thordur Jonsson","Thordur Jonsson","Intrinsic and extrinsic geometry of random surfaces","9 pages","Phys.Lett. B278 (1992) 89-93","10.1016/0370-2693(92)90716-H",,"hep-th",,"  We prove that the extrinsic Hausdorff dimension is always greater than or
+equal to the intrinsic Hausdorff dimension in models of triangulated random
+surfaces with action which is quadratic in the separation of vertices. We
+furthermore derive a few naive scaling relations which relate the intrinsic
+Hausdorff dimension to other critical exponents. These relations suggest that
+the intrinsic Hausdorff dimension is infinite if the susceptibility does not
+diverge at the critical point.
+","[{""version"":""v1"",""created"":""Tue, 5 Nov 1991 09:01:35 GMT""}]","2009-10-22"
+"hep-th/9111012",,"Joseph A. Minahan","Flows and Solitary Waves in Unitary Matrix Models with Logarithmic
+  Potentials","26 pages + 4 figures","Nucl.Phys. B378 (1992) 501-524","10.1016/0550-3213(92)90607-D",,"hep-th",,"  We investigate unitary one-matrix models coupled to bosonic quarks. We derive
+a flow equation for the square-root of the specific heat as a function of the
+renormalized quark mass. We show numerically that the flows have a finite
+number of solitary waves, and we postulate that their number equals the number
+of quark flavors. We also study the nonperturbative behavior of this theory and
+show that as the number of flavors diverges, the flow does not reach
+two-dimensional gravity.
+","[{""version"":""v1"",""created"":""Tue, 5 Nov 1991 15:33:03 GMT""}]","2009-10-22"

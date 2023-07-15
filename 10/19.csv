@@ -1,0 +1,22 @@
+"hep-th/9110054","Konstadinos Sfetsos","I. Bars and K. Sfetsos","Generalized Duality and Singular Strings in Higher Dimensions","17 pages","Mod.Phys.Lett. A7 (1992) 1091-1104","10.1142/S0217732392000963",,"hep-th",,"  Deformations of gauged WZW actions are constructed for any pair $(G,H)$ by
+taking different embeddings of the gauge group $H\subset G$ as it acts on the
+left and right of the group element $g$. This leads to models that are dual to
+each other, generalizing the axial/vector duality of the two dimensional black
+hole manifold. The classical equations are completely solved for any pair
+$(G,H)$ and in particular for the anti de Sitter string based on $SO(d-
+1,2)/SO(d-1,1)$ for which the normal modes are determined. Duality is
+demonstrated for models that have the same set of normal modes. Concentrating
+on $SO(2,2)/SO(2,1)$, the metric and dilaton fields of the $d=3$ string as well
+as some of the dual generalizations are obtained. They have curvature
+singularities and represent new singular solutions of Einstein's general
+relativity in three dimensions.
+","[{""version"":""v1"",""created"":""Fri, 18 Oct 1991 20:36:24 GMT""},{""version"":""v2"",""created"":""Thu, 24 Oct 1991 03:57:58 GMT""}]","2009-10-22"
+"hep-th/9110055","Nick Warner","D. Nemeschansky and N.P. Warner","Topological Matter, Integrable Models and Fusion Rings","24 pages","Nucl.Phys. B380 (1992) 241-264","10.1016/0550-3213(92)90522-D",,"hep-th",,"  We show how topological $G_k/G_k$ models can be embedded into the topological
+matter models that are obtained by perturbing the twisted $N=2$ supersymmetric,
+hermitian symmetric, coset models. In particular, this leads to an embedding of
+the fusion ring of $G$ as a sub-ring of the perturbed, chiral primary ring. The
+perturbation of the twisted $N=2$ model that leads to the fusion ring is also
+shown to lead to an integrable $N=2$ supersymmetric field theory when the
+untwisted $N=2$ superconformal field theory is perturbed by the same operator
+and its hermitian conjugate.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 1991 03:20:13 GMT""}]","2009-10-22"
